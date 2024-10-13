@@ -1,0 +1,6455 @@
+[
+  {
+    "ref": 1,
+    "place": "ओंकारेश्वर",
+    "accmodation": "मार्कण्डेश्वर आश्रम, अन्नपूर्णा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "ओंकारेश्वर ज्योतिर्लिंग , ममलेश्वर ज्योतिर्लिंग , नर्मदा आरती",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632242256/parikrama/1.jpg",
+    "location": "22.243417792704342, 76.15379386877805"
+  },
+  {
+    "ref": 3,
+    "place": "खेडीघाट मोरटक्का",
+    "accmodation": "सद्गुरु सेवासदन, (भक्तराज महाराज) आश्रम, श्री परमहंस चंद्रशेखारानंद महाराज परिसर",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633354627/parikrama/3.png",
+    "location": "22.221411477371742, 76.04502712752377"
+  },
+  {
+    "ref": 4,
+    "place": "नरमदा सेवा कुटी",
+    "accmodation": "महंत श्री शुक्रदास महाराज जी आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/4.png",
+    "location": "22.212888211058086, 76.01658922514035"
+  },
+  {
+    "ref": 5,
+    "place": "मोटी आली (आलीबुझुर्ग)",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "माँ नर्मदा कुटी आली बुजुुर्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/5.jpg",
+    "location": "22.20229997196101, 76.0060491837675"
+  },
+  {
+    "ref": 6,
+    "place": "टोकसर",
+    "accmodation": "धर्मशाला",
+    "food": "",
+    "visheshsthan": "नरमदा मंदिर, गोमतेश्वर महादेव मंदिर",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/6.png",
+    "location": "22.19112950056331, 75.97062507404823"
+  },
+  {
+    "ref": 7,
+    "place": "कांकरिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "गंगेश्वर महादेव - नर्मदा पुराण में उल्लेखित स्थान।  नर्मदा नदी के बीचों बीच में स्थित... गंगेश्वर महादेव ( गंगातखेडी )। जहाँ नर्मदा का पानी मध्य नर्मदा में धारा के विपरीत अर्थात पश्चिम से पूर्व की ओर बह रहा है। मतंगऋषि तपोभूमि",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280493/parikrama/7.png",
+    "location": "22.18575396230209, 75.93238808000656"
+  },
+  {
+    "ref": 8,
+    "place": "खेगाँव",
+    "accmodation": "नर्मदा मंदिर आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "दो सन्यासी मूर्ति आश्रम की व्यवस्था देखते है. परिक्रमा वासी को आश्रय और प्रसाद की व्यवस्था है",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/8.png",
+    "location": "22.187802982512085, 75.91534456323969"
+  },
+  {
+    "ref": 10,
+    "place": "रावेरखेडी",
+    "accmodation": "नर्मदेश्वर महाकाल अन्न क्षेत्र",
+    "food": "TRUE",
+    "visheshsthan": "बाजीराव पेशवा समाधी",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/10.jpg",
+    "location": "22.173708823925413, 75.87651529174406"
+  },
+  {
+    "ref": 11,
+    "place": "बकावन",
+    "accmodation": "शिव शक्ति व्यापारी बकावा आश्रम नर्मदा",
+    "food": "TRUE",
+    "visheshsthan": "नर्मदेश्वर शिवलिंग उत्पादन केंद्र",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633332967/parikrama/11.png",
+    "location": "22.16939863919523, 75.8496149091967"
+  },
+  {
+    "ref": 12,
+    "place": "मरदाना",
+    "accmodation": "हरिहर कुटी आश्रम",
+    "food": "",
+    "visheshsthan": "गनगौर घाट, मां नर्मदा नदी के तट के पास स्थित गणगौर और भागवत कथा आदि जैसे त्योहारों का आयोजन होता है",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633332973/parikrama/12.png",
+    "location": "22.177611901880887, 75.82108463068288"
+  },
+  {
+    "ref": 13,
+    "place": "नगावा",
+    "accmodation": "श्री रेवा गुर्जर धर्मशाला",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.17143379186312, 75.7955891963867"
+  },
+  {
+    "ref": 14,
+    "place": "तेलियाभट्याण",
+    "accmodation": "महान संत श्री सियाराम बाबाजी आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "इस स्थान पर, संत सियाराम रहते हैं जो 105 वर्ष के हैं और एक दिव्य संत के रूप में जाने जाते हैं। माना जाता है कि उनके पास चमत्कारी शक्तियां हैं। आस-पास के गांव के लोग कुछ शुरू करने से पहले उनका आशीर्वाद लेने आते हैं। आप यहां अद्भुत सूर्यास्त की एक झलक देख सकते हैं। हनुमान मंदिर, बिल्केश्वर मंदिर",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633363779/parikrama/14.png",
+    "location": "22.160313061221746, 75.7622473183464"
+  },
+  {
+    "ref": 16,
+    "place": "लेपाघाट",
+    "accmodation": "साधु कुटी",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.152240491506177, 75.68740326786116"
+  },
+  {
+    "ref": 17,
+    "place": "मर्कटी (वेदा) संगम",
+    "accmodation": "वेदांत विला आश्रम , माकडख़ेड़ा",
+    "food": "",
+    "visheshsthan": "महेश्वर डैम , जय शिव मार्कंडेय तपस्थली. यह एक अति प्राचीन शिव मंदिर है जिसका वर्णन नर्मदा पुराण में भी मिलता है । वेदा नदी और नर्मदा नदी के संगम पर स्थित इस मंदिर क्षेत्र को मर्कटी संगम कहलाता है । प्रमुख तीज त्यौहारों पर काफी श्रद्धालुगण इस संगम पर स्नान कर शिवालय के दर्शन करते है । मंदिर में एक शिलालेख भी लगा हुआ है जिसमे मुग़ल सम्राट अकबर द्वारा उनके कार्यकाल में इस मन्दिर के जीर्णोद्धार का वर्णन भी अंकित है । नर्मदा परिक्रमा वासियो की नर्मदा जी की परिक्रमा के दौरान भी इस मंदिर में उनका एक महत्वपूर्व पढ़ाव होता है ।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633369964/parikrama/17.png",
+    "location": "22.159179715323383, 75.67173333917398"
+  },
+  {
+    "ref": 19,
+    "place": "शालिवाहन",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "शालिवाहन शिव मंदिर",
+    "photo": "",
+    "location": "22.163137117372514, 75.58836760366492"
+  },
+  {
+    "ref": 20,
+    "place": "नावडीटोला",
+    "accmodation": "धर्मशाला",
+    "food": "",
+    "visheshsthan": "सुवर्णदीप तीर्थ",
+    "photo": "",
+    "location": "22.164006525149446, 75.584580324541"
+  },
+  {
+    "ref": 21,
+    "place": "सहस्त्रधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.158414316606873, 75.55489683690172"
+  },
+  {
+    "ref": 22,
+    "place": "ढालखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.153091950520338, 75.53417378013872"
+  },
+  {
+    "ref": 23,
+    "place": "बलगावघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "मौनी बाबा आश्रम बलगांव",
+    "photo": "",
+    "location": "22.153041297613292, 75.50393637294528"
+  },
+  {
+    "ref": 24,
+    "place": "अकबरपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.148883695203192, 75.4942463609795"
+  },
+  {
+    "ref": 25,
+    "place": "खलघाट",
+    "accmodation": "सदगुरु जोग आळंदी देव अन्नक्षेत्र",
+    "food": "TRUE",
+    "visheshsthan": "श्री शनि मंदिर खल्बुजुर्ग, अलबेला हनुमान मंदिर",
+    "photo": "",
+    "location": "22.146786405280064, 75.45545764017974"
+  },
+  {
+    "ref": 26,
+    "place": "चिचली",
+    "accmodation": "हनुमान मंदिर नर्मदाजी परिक्रमा चिन्चिली",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.133030934245326, 75.40004432223702"
+  },
+  {
+    "ref": 27,
+    "place": "कठोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.13748183295198, 75.35471830739552"
+  },
+  {
+    "ref": 28,
+    "place": "ग्यारहलिंगी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "ग्यारह लिंगी आश्रम,बाबा नर्मदे हर आश्रम",
+    "photo": "",
+    "location": "22.135731102612507, 75.34503559057022"
+  },
+  {
+    "ref": 29,
+    "place": "नंदगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.121959003835922, 75.30277712825273"
+  },
+  {
+    "ref": 30,
+    "place": "ब्राह्मणगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.121064488592467, 75.28539641375808"
+  },
+  {
+    "ref": 31,
+    "place": "विश्वनाथखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.110589235267906, 75.27055313740617"
+  },
+  {
+    "ref": 32,
+    "place": "चैनपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.11400849445341, 75.25583317470193"
+  },
+  {
+    "ref": 34,
+    "place": "मारुकी चिचली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.114843417299564, 75.22823860876413"
+  },
+  {
+    "ref": 35,
+    "place": "नलवाय",
+    "accmodation": "लालबाबा आश्रम",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.100398966932534, 75.19527970950556"
+  },
+  {
+    "ref": 36,
+    "place": "लोहारा",
+    "accmodation": "रामदुलारी माता आश्रम",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.097978411083442, 75.17208609772851"
+  },
+  {
+    "ref": 37,
+    "place": "किर्मोही",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.09688846994773, 75.14572398083915"
+  },
+  {
+    "ref": 38,
+    "place": "केसरपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.092836942770788, 75.1249661211165"
+  },
+  {
+    "ref": 39,
+    "place": "मोहिपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "अमुर्तानंद जी समाधी स्थल",
+    "photo": "",
+    "location": "22.08997388321503, 75.10539672454415"
+  },
+  {
+    "ref": 40,
+    "place": "दतवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "रम्या परिक्रमा वासि निवास",
+    "photo": "",
+    "location": "22.0909421,75.0934005"
+  },
+  {
+    "ref": 41,
+    "place": "छोटा वर्धा",
+    "accmodation": "माँ नर्मदा अन्नक्षेत्र",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633598232/parikrama/41.png",
+    "location": "22.081779863762176, 75.04968543210757"
+  },
+  {
+    "ref": 43,
+    "place": "आवली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.080278059524304, 75.01610035782383"
+  },
+  {
+    "ref": 44,
+    "place": "दहीबेडा-सेगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.07952246837415, 74.99459977076084"
+  },
+  {
+    "ref": 45,
+    "place": "पिपलोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.076221680579668, 74.97593159547722"
+  },
+  {
+    "ref": 46,
+    "place": "देह्दाला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.066637028427184, 74.94649166924924"
+  },
+  {
+    "ref": 47,
+    "place": "कसरावद",
+    "accmodation": "श्री मेकलसुता धाम, नर्मदा कुटी, छोटी कसरावद",
+    "food": "TRUE",
+    "visheshsthan": "माँ नर्मदा मंदिर कसरवाड",
+    "photo": "",
+    "location": "22.07305303361368, 74.92773245704957"
+  },
+  {
+    "ref": 48,
+    "place": "एकालारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.076135875150737, 74.90937177142094"
+  },
+  {
+    "ref": 49,
+    "place": "राजघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.07536534841365, 74.88816354476278"
+  },
+  {
+    "ref": 50,
+    "place": "पेंडरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.06559838817221, 74.86735839327156"
+  },
+  {
+    "ref": 51,
+    "place": "जामदाबैडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.059795839056918, 74.85155072697457"
+  },
+  {
+    "ref": 52,
+    "place": "गणेशपुरा-पाल्य",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.055659322656354, 74.83395543597784"
+  },
+  {
+    "ref": 53,
+    "place": "जांगरवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "नर्मदा कुटी मंदिर",
+    "photo": "",
+    "location": "22.072983696751812, 74.78208214037052"
+  },
+  {
+    "ref": 54,
+    "place": "अवल्दा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.057877604849242, 74.77987501115749"
+  },
+  {
+    "ref": 55,
+    "place": "भवती",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.055849108466255, 74.76539108327644"
+  },
+  {
+    "ref": 56,
+    "place": "अमलाली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.052865644078654, 74.74789365264752"
+  },
+  {
+    "ref": 57,
+    "place": "बिजासेन",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.0487687016931, 74.72429021409334"
+  },
+  {
+    "ref": 58,
+    "place": "मोरकट्टा",
+    "accmodation": "माँ नरमदा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.03510563278139, 74.68869546464971"
+  },
+  {
+    "ref": 59,
+    "place": "बोरखेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.027463628627217, 74.6500153307151"
+  },
+  {
+    "ref": 60,
+    "place": "कूली",
+    "accmodation": "माँ नरमदा कुटी",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.01767674537612, 74.61709926150203"
+  },
+  {
+    "ref": 61,
+    "place": "घोंगसा",
+    "accmodation": "श्री लखनगिरी महाराज आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "मगरमच्छो का रहवास , सावधान रहें।  शूलपाणी झाडी में पड़ने वाला आश्रम अति सुंदर स्थान और बाबा लखन गिरी जी समाधि स्थान",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633598232/parikrama/61.png",
+    "location": "22.02057713918018, 74.57318097307859"
+  },
+  {
+    "ref": 62,
+    "place": "सेमलर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "जंगल पदचारी मार्ग",
+    "photo": "",
+    "location": "22.009334609754916, 74.49764863081086"
+  },
+  {
+    "ref": 63,
+    "place": "खाराभादल",
+    "accmodation": "नकरसिंह और उनका परिवार शुलपानी जंगल से गुजरने वाली नर्मदा परिक्रमावासी को भोजन और आश्रय देने की उत्कृष्ट सेवा कर रहा है।",
+    "food": "TRUE",
+    "visheshsthan": "नर्मदा परिक्रमा के सबसे कठिन इलाके में से एक",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633599011/parikrama/63.png",
+    "location": "22.017159415880236, 74.45797181671408"
+  },
+  {
+    "ref": 64,
+    "place": "भादल",
+    "accmodation": "कालूराम वर्मा, माँ नर्मदा परिक्रमावासी सेवा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "महाराष्ट्र प्रवेश , जंगल पदचारी मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632481213/parikrama/64.png",
+    "location": "22.006411612384568, 74.4414915812618"
+  },
+  {
+    "ref": 65,
+    "place": "ढाबरी",
+    "accmodation": "फलदाभाई, माँ नर्मदा परिक्रमावासी सेवा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "जंगल पदचारी मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633444115/parikrama/65.png",
+    "location": "21.98085053364299, 74.41239474627288"
+  },
+  {
+    "ref": 66,
+    "place": "उडद्या",
+    "accmodation": "वांगला ठुमला पावरा, माँ नरमदा सेवा केंद्र , खप्परमाल",
+    "food": "TRUE",
+    "visheshsthan": "कठिन जंगल का रास्ता",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633444115/parikrama/66.png",
+    "location": "21.962763796274132, 74.39028238465856"
+  },
+  {
+    "ref": 68,
+    "place": "भमाणा",
+    "accmodation": "मानिया पावरा, माँ नरमदा परिक्रमावासी रहवास",
+    "food": "TRUE",
+    "visheshsthan": "जंगल पदचारी मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633444115/parikrama/68.png",
+    "location": "21.946027802557555, 74.33660227033653"
+  },
+  {
+    "ref": 69,
+    "place": "सावरीयाडीगर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "जंगल पदचारी मार्ग",
+    "photo": "",
+    "location": "21.9119659493996, 74.33963004318852"
+  },
+  {
+    "ref": 70,
+    "place": "बिलगाँव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "बारधाऱया धबधबा",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633501730/parikrama/70.png",
+    "location": "21.90053443217157, 74.31700229398966"
+  },
+  {
+    "ref": 71,
+    "place": "चिखली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "कठिन जंगल का रास्ता",
+    "photo": "",
+    "location": "21.87588479709013, 74.33882474637548"
+  },
+  {
+    "ref": 72,
+    "place": "बोरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "कठिन जंगल का रास्ता",
+    "photo": "",
+    "location": "21.871740536789947, 74.32029477247467"
+  },
+  {
+    "ref": 73,
+    "place": "खर्डी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.862154548703447, 74.29749672372124"
+  },
+  {
+    "ref": 74,
+    "place": "राजबर्डी",
+    "accmodation": "आश्रम स्कूल",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633501730/parikrama/74.png",
+    "location": "21.85289401156725, 74.26980559789561"
+  },
+  {
+    "ref": 75,
+    "place": "शेलकुई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.832185653964448, 74.27656550586737"
+  },
+  {
+    "ref": 76,
+    "place": "धडगाव",
+    "accmodation": "माधवदास महाराज आश्रम",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.827006707418345, 74.22086138941292"
+  },
+  {
+    "ref": 77,
+    "place": "हरणखुरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.82183260085933, 74.20412484166339"
+  },
+  {
+    "ref": 78,
+    "place": "कुंडल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.822948122505583, 74.12713471334486"
+  },
+  {
+    "ref": 79,
+    "place": "खुंटामोडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.80605500714162, 74.1006988613859"
+  },
+  {
+    "ref": 80,
+    "place": "काठी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.781072469308892, 74.02187527539172"
+  },
+  {
+    "ref": 81,
+    "place": "मोलगी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.772145443700865, 74.00530995365577"
+  },
+  {
+    "ref": 82,
+    "place": "बिजलीगव्हाण",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.787209476401088, 73.98342312768368"
+  },
+  {
+    "ref": 83,
+    "place": "सुरगस",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.789839542259543, 73.95235241832802"
+  },
+  {
+    "ref": 84,
+    "place": "बर्डी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.78023120180724, 73.93627296476274"
+  },
+  {
+    "ref": 85,
+    "place": "पिंपळखुटी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.774930816333924, 73.92395626248911"
+  },
+  {
+    "ref": 86,
+    "place": "मोकस",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.76341276270803, 73.89962326255736"
+  },
+  {
+    "ref": 87,
+    "place": "पांढरामाटी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.757115304340203, 73.88614784511887"
+  },
+  {
+    "ref": 88,
+    "place": "वडफळी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.742127836878712, 73.84992729633511"
+  },
+  {
+    "ref": 89,
+    "place": "चापडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "महाराष्ट्र अंतिम पड़ाव",
+    "photo": "",
+    "location": "21.750390126559445, 73.8342216676367"
+  },
+  {
+    "ref": 90,
+    "place": "कणजी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "गुजरात प्रवेश",
+    "photo": "",
+    "location": "21.772391200660007, 73.82229120251597"
+  },
+  {
+    "ref": 91,
+    "place": "माथासर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.780293758573176, 73.77392224392399"
+  },
+  {
+    "ref": 92,
+    "place": "सरदार सरोवर धरण",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.827354240551408, 73.74068264498212"
+  },
+  {
+    "ref": 95,
+    "place": "गोरागाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.862248661715125, 73.68583683488932"
+  },
+  {
+    "ref": 97,
+    "place": "इंद्रवर्णा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.874077762647715, 73.64262182656705"
+  },
+  {
+    "ref": 98,
+    "place": "नानीरावल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.88017095691846, 73.63841612324147"
+  },
+  {
+    "ref": 99,
+    "place": "फूलवाडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.880401429142825, 73.64061224631796"
+  },
+  {
+    "ref": 100,
+    "place": "रामपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.897883043241013, 73.59911310851086"
+  },
+  {
+    "ref": 101,
+    "place": "धनदेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.903935403320286, 73.59503615077625"
+  },
+  {
+    "ref": 102,
+    "place": "मांगरोल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.913690311020485, 73.59224665340737"
+  },
+  {
+    "ref": 103,
+    "place": "गुवार",
+    "accmodation": "सीतारामबापू आश्रम गरियाधर वाला",
+    "food": "TRUE",
+    "visheshsthan": "श्री स्वामी रामानंद संत आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632484404/parikrama/103.png",
+    "location": "21.927656947265813, 73.58838812610767"
+  },
+  {
+    "ref": 104,
+    "place": "शेरव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "सिद्धेश्वर महादेव",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633609118/parikrama/104.png",
+    "location": "21.949797560779125, 73.56898653677851"
+  },
+  {
+    "ref": 105,
+    "place": "तुंबडी सोंढलिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "केदारेश्वर मंदिर",
+    "photo": "",
+    "location": "21.9607753035137, 73.55775554608793"
+  },
+  {
+    "ref": 107,
+    "place": "वांदरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.965060233377212, 73.54114311233248"
+  },
+  {
+    "ref": 108,
+    "place": "कुंभेश्वर जीओर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.955876375875736, 73.51205509235413"
+  },
+  {
+    "ref": 109,
+    "place": "वैधनाथ महादेव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.973521510141214, 73.5354611276989"
+  },
+  {
+    "ref": 110,
+    "place": "हनुमंतेश्वर मोरली संगम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.96800288551857, 73.48094525651076"
+  },
+  {
+    "ref": 112,
+    "place": "पोयचा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.964932899964644, 73.45118892056114"
+  },
+  {
+    "ref": 113,
+    "place": "नरखड़ी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.952692113146586, 73.44649541934425"
+  },
+  {
+    "ref": 114,
+    "place": "रुंडगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.942448782455934, 73.45444619379805"
+  },
+  {
+    "ref": 115,
+    "place": "शुकदेव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.920672937536985, 73.4374517175199"
+  },
+  {
+    "ref": 116,
+    "place": "छोटा पाटणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.907096182128516, 73.41792523586669"
+  },
+  {
+    "ref": 117,
+    "place": "ओरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.91056016929693, 73.39256226745708"
+  },
+  {
+    "ref": 118,
+    "place": "सीसोदरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.911201125299787, 73.35011290687639"
+  },
+  {
+    "ref": 119,
+    "place": "कांदरोज",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.878867448841977, 73.34959792274526"
+  },
+  {
+    "ref": 120,
+    "place": "वराच्छा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.881644452059906, 73.30656038634356"
+  },
+  {
+    "ref": 121,
+    "place": "असा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.877412261330235, 73.28428000006544"
+  },
+  {
+    "ref": 122,
+    "place": "पाणेथा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.89393856271065, 73.26355188872058"
+  },
+  {
+    "ref": 123,
+    "place": "इंदोर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.901583817817322, 73.23763102092335"
+  },
+  {
+    "ref": 124,
+    "place": "वासणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.88788577817891, 73.24200838599165"
+  },
+  {
+    "ref": 125,
+    "place": "वेळुगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.86279584099939, 73.25316637546445"
+  },
+  {
+    "ref": 126,
+    "place": "सरसाड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.825590900806528, 73.25642794160079"
+  },
+  {
+    "ref": 127,
+    "place": "वढवाणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.81642759881912, 73.22029322167252"
+  },
+  {
+    "ref": 128,
+    "place": "कृष्णपुरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.81110845000556, 73.21539284952566"
+  },
+  {
+    "ref": 129,
+    "place": "रुंडगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.82527218659977, 73.18802088292921"
+  },
+  {
+    "ref": 130,
+    "place": "भालोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.794706589618364, 73.18944911537312"
+  },
+  {
+    "ref": 131,
+    "place": "अविधा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.768390173657068, 73.18827035203954"
+  },
+  {
+    "ref": 132,
+    "place": "कराड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.74116934256682, 73.16891879402557"
+  },
+  {
+    "ref": 133,
+    "place": "लिंबोदरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.729369519094597, 73.14651698436285"
+  },
+  {
+    "ref": 135,
+    "place": "जगदीश मढी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.715858042302475, 73.13698818247752"
+  },
+  {
+    "ref": 136,
+    "place": "मोटा सांजा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.719332251303975, 73.13511922916649"
+  },
+  {
+    "ref": 137,
+    "place": "उचडिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.710959583307925, 73.12009885873232"
+  },
+  {
+    "ref": 138,
+    "place": "गुमानदेव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.698275123214632, 73.11817848912901"
+  },
+  {
+    "ref": 139,
+    "place": "कपलसारी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.699476019326237, 73.12164349017485"
+  },
+  {
+    "ref": 140,
+    "place": "गुवाली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.696046798282026, 73.09280437830573"
+  },
+  {
+    "ref": 141,
+    "place": "मुलद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.68459234830159, 73.07220146594258"
+  },
+  {
+    "ref": 142,
+    "place": "नौगवा नवागाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.674359532059217, 73.0544228416784"
+  },
+  {
+    "ref": 144,
+    "place": "सामोर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.667770499632493, 73.03302576412007"
+  },
+  {
+    "ref": 145,
+    "place": "अंदाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.658796553677508, 73.02178194391534"
+  },
+  {
+    "ref": 146,
+    "place": "गडखोल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.64647081378312, 73.00905507746606"
+  },
+  {
+    "ref": 147,
+    "place": "झरकुंड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.644158803411283, 72.9980173614311"
+  },
+  {
+    "ref": 148,
+    "place": "अंकलेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.635854715967486, 72.98617208459137"
+  },
+  {
+    "ref": 149,
+    "place": "बोरभाटा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "ओम तपोवन आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632485071/parikrama/149.png",
+    "location": "21.6706996,72.9696249"
+  },
+  {
+    "ref": 150,
+    "place": "भरोडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "श्री नीलकंठेश्वर मंदिर",
+    "photo": "",
+    "location": "21.572955328960955, 72.91044197407936"
+  },
+  {
+    "ref": 151,
+    "place": "सजोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.615784851697555, 72.90564124273544"
+  },
+  {
+    "ref": 152,
+    "place": "माटीएड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.62021928423015, 72.8816182238434"
+  },
+  {
+    "ref": 153,
+    "place": "मोठिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.606893372774707, 72.85745688505627"
+  },
+  {
+    "ref": 154,
+    "place": "शेरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.60186591349263, 72.84887381618611"
+  },
+  {
+    "ref": 155,
+    "place": "उतराज",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.606231769786586, 72.82482381052495"
+  },
+  {
+    "ref": 156,
+    "place": "हांसोट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.583488534418127, 72.80667415825873"
+  },
+  {
+    "ref": 157,
+    "place": "वासनोली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.554315659697927, 72.77481474517928"
+  },
+  {
+    "ref": 158,
+    "place": "वडोदरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.533154340790553, 72.78137843828034"
+  },
+  {
+    "ref": 159,
+    "place": "कोटेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.531956733149162, 72.74009387684787"
+  },
+  {
+    "ref": 160,
+    "place": "कठपोर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.519820421206173, 72.72129695592663"
+  },
+  {
+    "ref": 161,
+    "place": "वमलेश्वर",
+    "accmodation": "श्री विमलेश्वर महादेव मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "दक्षिण तट अंतिम पड़ाव , परिक्रमा वासी जेटी , यहाँ से नाव द्वारा मिठीतलाई जाते हैं।  नाव में यात्रा के दौरान थोड़ा नर्मदा जल नमकीन जल में छोड़ते हैं और थोड़ा नमकीन जल अपने पास रख लेते हैं।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633675134/parikrama/161.png",
+    "location": "21.4495350721828, 72.65882577777184"
+  },
+  {
+    "ref": 162,
+    "place": "मिठी तलाई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "नाव से पार करने के बाद उत्तर तट का प्रथम स्थान",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633674206/parikrama/162.png",
+    "location": "21.66007912736961, 72.56022596283142"
+  },
+  {
+    "ref": 164,
+    "place": "हरिका धाम",
+    "accmodation": "श्री हरी महाराज आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.660402153403677, 72.5561530887953"
+  },
+  {
+    "ref": 165,
+    "place": "लखीगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.687590829557994, 72.55404433982002"
+  },
+  {
+    "ref": 163,
+    "place": "जोगेश्वर आश्रम",
+    "accmodation": "जोगेश्वर आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.67046797381006, 72.56574522146957"
+  },
+  {
+    "ref": 166,
+    "place": "दहेज",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.715424511945077, 72.59125392904804"
+  },
+  {
+    "ref": 167,
+    "place": "अंमेठा",
+    "accmodation": "श्री कृष्णानद आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "श्री चंद्रमाउलेश्वर महादेव",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633676142/parikrama/167.png",
+    "location": "21.68218572155178, 72.5934036758456"
+  },
+  {
+    "ref": 168,
+    "place": "सुवागाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "वेराई माताजी मंदिर",
+    "photo": "",
+    "location": "21.68456503246822, 72.65735462751707"
+  },
+  {
+    "ref": 169,
+    "place": "कोलियाद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.69289935958657, 72.69280270191288"
+  },
+  {
+    "ref": 170,
+    "place": "वेंगणी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.687715385001038, 72.71353081315715"
+  },
+  {
+    "ref": 171,
+    "place": "कलादरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "कपालेश्वर महादेव मंदिर",
+    "photo": "",
+    "location": "21.6911846811734, 72.74165109257777"
+  },
+  {
+    "ref": 172,
+    "place": "केसरोल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.71394017052632, 72.7840169038919"
+  },
+  {
+    "ref": 174,
+    "place": "एकसाल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "अपशेश्वर महादेव मंदिर",
+    "photo": "",
+    "location": "21.700669552367426, 72.79888023511437"
+  },
+  {
+    "ref": 175,
+    "place": "कोसवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.682253129884074, 72.81510193242255"
+  },
+  {
+    "ref": 176,
+    "place": "भारभूत",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "भरेश्वर महादेव मंदिर में 18 वर्ष में एक बार अधिक मास में मेला लगता है। स्वयंभू शिवलिंग।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633677929/parikrama/176.png",
+    "location": "21.681773208929123, 72.84431508013645"
+  },
+  {
+    "ref": 177,
+    "place": "वडवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.69259997505922, 72.86767712065506"
+  },
+  {
+    "ref": 179,
+    "place": "दशान",
+    "accmodation": "नर्मदा सेवा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.68154219895661, 72.91253355395847"
+  },
+  {
+    "ref": 180,
+    "place": "कुकरवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.678471471402677, 72.93309000380513"
+  },
+  {
+    "ref": 181,
+    "place": "भरुच",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.702506126621657, 72.99980800741992"
+  },
+  {
+    "ref": 182,
+    "place": "मक्तमपूर",
+    "accmodation": "कुसुम हरनाथ मंदिर",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.70769489006015, 73.01072850822985"
+  },
+  {
+    "ref": 183,
+    "place": "ज़देश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.727878630100072, 73.04481402039617"
+  },
+  {
+    "ref": 184,
+    "place": "तवरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.74394037639677, 73.06125445011612"
+  },
+  {
+    "ref": 185,
+    "place": "कडोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.739304960420714, 73.09033138560318"
+  },
+  {
+    "ref": 186,
+    "place": "शुकलतीर्थ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.749970017905014, 73.12149044404117"
+  },
+  {
+    "ref": 187,
+    "place": "मंगलेश्वर",
+    "accmodation": "नर्मदा परिक्रमावासी आश्रय",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.765255587043196, 73.13159164319558"
+  },
+  {
+    "ref": 188,
+    "place": "निकोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.77698410485597, 73.13416442658246"
+  },
+  {
+    "ref": 189,
+    "place": "अंगारेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.793412434107662, 73.13314518716044"
+  },
+  {
+    "ref": 190,
+    "place": "धर्मशाला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.809000505552536, 73.13138413528763"
+  },
+  {
+    "ref": 191,
+    "place": "झणोर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.831709661337907, 73.1229727278197"
+  },
+  {
+    "ref": 192,
+    "place": "नांद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.85895588891396, 73.12979626752032"
+  },
+  {
+    "ref": 193,
+    "place": "सोमज दिलवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.868753700422435, 73.14438748456953"
+  },
+  {
+    "ref": 195,
+    "place": "ओझ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.864621057804918, 73.16852038014241"
+  },
+  {
+    "ref": 196,
+    "place": "मोटी कोरल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.83279471055894, 73.20641462905718"
+  },
+  {
+    "ref": 197,
+    "place": "सायर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.85899463307649, 73.22825239538761"
+  },
+  {
+    "ref": 198,
+    "place": "नारेश्वर",
+    "accmodation": "श्री गिरनारी आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.87253614260206, 73.22928236363722"
+  },
+  {
+    "ref": 199,
+    "place": "कहोणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "हंसमुखा हनुमान मंदिर",
+    "photo": "",
+    "location": "21.8980605103101, 73.21754198453745"
+  },
+  {
+    "ref": 200,
+    "place": "फतेहपुर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.91101023506076, 73.21593761444306"
+  },
+  {
+    "ref": 201,
+    "place": "कोठिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.93992597615861, 73.23963528014701"
+  },
+  {
+    "ref": 202,
+    "place": "रणापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.93922329812904, 73.25015438565242"
+  },
+  {
+    "ref": 203,
+    "place": "दिवेर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.93304426861845, 73.26688895997127"
+  },
+  {
+    "ref": 204,
+    "place": "मांडवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.914800203443743, 73.30114176710336"
+  },
+  {
+    "ref": 205,
+    "place": "मालसर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "अंगरेश्वर महादेव का एक प्राचीन मंदिर है और नर्मदा नदी के पास सत्यनारायण भगवान का मंदिर भी है। भाद्रपद माहिना में हिंदू पंचांग के अनुसार पार्श्व एकादशी पर वे सत्यनारायण भगवान की पालकी को नर्मदा नदी में 30 से 45 मिनट तक लेते हैं और फिर वापस आकर पूरे गांव में पालकी लेते हैं।",
+    "photo": "",
+    "location": "21.89175467135599, 73.30952454880524"
+  },
+  {
+    "ref": 206,
+    "place": "शिनोर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.91038268941139, 73.34195093498981"
+  },
+  {
+    "ref": 207,
+    "place": "कंजेठा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.931815477209266, 73.35969803668551"
+  },
+  {
+    "ref": 208,
+    "place": "अंबाली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.933143851220088, 73.37633364676937"
+  },
+  {
+    "ref": 209,
+    "place": "अनूसूया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.929455278121612, 73.38411692698755"
+  },
+  {
+    "ref": 210,
+    "place": "जनकेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.92236889006942, 73.39308623397928"
+  },
+  {
+    "ref": 212,
+    "place": "बरकाल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.922058199114627, 73.42395770535609"
+  },
+  {
+    "ref": 213,
+    "place": "मोलेथा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.94610901230726, 73.42820498234437"
+  },
+  {
+    "ref": 214,
+    "place": "दरीयापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.96378584635065, 73.43481698539478"
+  },
+  {
+    "ref": 215,
+    "place": "बद्रीकाश्रम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.965825237055125, 73.43625587048103"
+  },
+  {
+    "ref": 216,
+    "place": "नंदेरिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.975650678565195, 73.43775361775961"
+  },
+  {
+    "ref": 217,
+    "place": "गंगनाथ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.97809818788191, 73.44052165746393"
+  },
+  {
+    "ref": 218,
+    "place": "यमहास",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.98297318237043, 73.44631522894196"
+  },
+  {
+    "ref": 219,
+    "place": "चांदोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "नर्मदा माताजी मंदिर",
+    "photo": "",
+    "location": "21.98434936994407, 73.4558356389842"
+  },
+  {
+    "ref": 220,
+    "place": "करनाली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.985410606060025, 73.47436371176259"
+  },
+  {
+    "ref": 221,
+    "place": "बरवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.973202729290335, 73.51726825493593"
+  },
+  {
+    "ref": 222,
+    "place": "मोरिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.982842670659377, 73.54362283228294"
+  },
+  {
+    "ref": 223,
+    "place": "चुडेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.972422012541898, 73.56459423189011"
+  },
+  {
+    "ref": 224,
+    "place": "तिलकवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.951876525071626, 73.58965623137196"
+  },
+  {
+    "ref": 225,
+    "place": "मणीनागेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.946540949926383, 73.59539834440686"
+  },
+  {
+    "ref": 226,
+    "place": "वासणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.92480422169999, 73.59838017181914"
+  },
+  {
+    "ref": 227,
+    "place": "रेगण",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.907171740862488, 73.60358863149165"
+  },
+  {
+    "ref": 228,
+    "place": "सांजरोली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.898533093472903, 73.61986738415754"
+  },
+  {
+    "ref": 229,
+    "place": "अक्तेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.893117630917267, 73.63857847459643"
+  },
+  {
+    "ref": 230,
+    "place": "गरुडेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.89695022460487, 73.65476286494922"
+  },
+  {
+    "ref": 231,
+    "place": "गभाणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.893434099560906, 73.67761560116925"
+  },
+  {
+    "ref": 233,
+    "place": "केवडिया-नवागाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.8821085,73.6915684"
+  },
+  {
+    "ref": 235,
+    "place": "झरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.920806260531034, 73.7276816921931"
+  },
+  {
+    "ref": 236,
+    "place": "उडवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.932648343643052, 73.74563589889321"
+  },
+  {
+    "ref": 237,
+    "place": "चिचडिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.943694155460932, 73.76535708632301"
+  },
+  {
+    "ref": 238,
+    "place": "कलियापुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.9292437733631, 73.7838535996105"
+  },
+  {
+    "ref": 239,
+    "place": "जीवनपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.91305999208744, 73.79213626113"
+  },
+  {
+    "ref": 240,
+    "place": "हरीपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.90856085284633, 73.80846554956592"
+  },
+  {
+    "ref": 241,
+    "place": "भरवाडा-नौगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.995321954292354, 73.79801317440786"
+  },
+  {
+    "ref": 242,
+    "place": "गठ-बोरियाद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.064542645437808, 73.82736726970954"
+  },
+  {
+    "ref": 243,
+    "place": "कवांट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.092471476866542, 74.0526831525854"
+  },
+  {
+    "ref": 245,
+    "place": "छोटा उदयपुर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.05268964631156, 74.14257645607906"
+  },
+  {
+    "ref": 246,
+    "place": "वेलीफल्या",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.036698946145414, 74.1950619220222"
+  },
+  {
+    "ref": 247,
+    "place": "मथवाड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.015625605737565, 74.22601059409803"
+  },
+  {
+    "ref": 248,
+    "place": "मालमुडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.020077284481218, 74.24788983173345"
+  },
+  {
+    "ref": 249,
+    "place": "कालिबेल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.02556747733748, 74.26085026571816"
+  },
+  {
+    "ref": 250,
+    "place": "बडी गद्रा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.028635231597573, 74.28539886461779"
+  },
+  {
+    "ref": 251,
+    "place": "छोटी गद्रा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.030776747851476, 74.2950440542229"
+  },
+  {
+    "ref": 252,
+    "place": "अट्ठा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.061734339893654, 74.26346395554766"
+  },
+  {
+    "ref": 253,
+    "place": "उमरठ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.070643226520517, 74.31393240004849"
+  },
+  {
+    "ref": 254,
+    "place": "साकडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.081460405223197, 74.36783407206637"
+  },
+  {
+    "ref": 255,
+    "place": "गुलवठ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.08686868393272, 74.3795070456244"
+  },
+  {
+    "ref": 256,
+    "place": "टेमला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.089413685074007, 74.40868947989122"
+  },
+  {
+    "ref": 257,
+    "place": "कुकड्या",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.09609409351422, 74.43169210425555"
+  },
+  {
+    "ref": 258,
+    "place": "कुलवठ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.11263469633645, 74.44714162824725"
+  },
+  {
+    "ref": 259,
+    "place": "कवडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.105000813001073, 74.4934901997276"
+  },
+  {
+    "ref": 261,
+    "place": "गंगापुर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.110613342959383, 74.52499540162806"
+  },
+  {
+    "ref": 262,
+    "place": "डही",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.111680484024, 74.58635900549952"
+  },
+  {
+    "ref": 263,
+    "place": "कुआ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.084384778383413, 74.61717368591023"
+  },
+  {
+    "ref": 264,
+    "place": "धरमराय",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.055920770676366, 74.68190859340993"
+  },
+  {
+    "ref": 265,
+    "place": "निसरपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.110195938447053, 74.80743659604697"
+  },
+  {
+    "ref": 266,
+    "place": "कोटेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.08264985781358, 74.79258788841416"
+  },
+  {
+    "ref": 267,
+    "place": "कडमाल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.096586445538573, 74.85080816838847"
+  },
+  {
+    "ref": 268,
+    "place": "गेहेलगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.090080584298885, 74.86566168793114"
+  },
+  {
+    "ref": 269,
+    "place": "चिखलदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.09176823285353, 74.88297145952394"
+  },
+  {
+    "ref": 270,
+    "place": "बोधवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.089410117058183, 74.94695438159503"
+  },
+  {
+    "ref": 271,
+    "place": "गांगलोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.095295255673477, 74.97712386861097"
+  },
+  {
+    "ref": 272,
+    "place": "कवटी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.114502207774827, 74.97643078212062"
+  },
+  {
+    "ref": 273,
+    "place": "अकलवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.094630396084032, 75.01635686582671"
+  },
+  {
+    "ref": 274,
+    "place": "अचोदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.097771701903817, 75.03854409865573"
+  },
+  {
+    "ref": 275,
+    "place": "सेमलदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.09844767007173, 75.05339280788311"
+  },
+  {
+    "ref": 276,
+    "place": "पेरखड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.09940197241963, 75.07519380270527"
+  },
+  {
+    "ref": 277,
+    "place": "उर्दाना",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.10150936722002, 75.10150090868233"
+  },
+  {
+    "ref": 278,
+    "place": "शरीकपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.1141473,75.1252777"
+  },
+  {
+    "ref": 279,
+    "place": "बडा वर्धा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.109798740430943, 75.14688602750822"
+  },
+  {
+    "ref": 280,
+    "place": "मलंग गाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.109742065929613, 75.17393550647223"
+  },
+  {
+    "ref": 281,
+    "place": "शुक्लेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.127210508054624, 75.2421361398116"
+  },
+  {
+    "ref": 282,
+    "place": "महापुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "यहाँ से रास्ता धरमपुरी से होकर मांडव जाता है और वापस खलघाट नर्मदा नदी के किनारे पर आ जाएगा। ये इस लिए है कि मांडव में रेवा कुंड है जो माँ नर्मदा जी भू मार्ग से होते हुवे मांडव रेवा कुंड तक जाती है यदि हम साइड हाईवे 38 से खलघाट जाएंगे तो हम नर्मदा जी को पार कर देंगे जिससे हमारी यात्रा खंडित हो जाएगी इस लिए कृपया भूल कर भी धरमपुरी होते हुवे खलघाट न जाये। आप काली बावड़ी होते हुवे रेवा कुंड के  दर्शन पूजन कर आगे की यात्रा धार रोड होते हुवे गुजरी से सीधे महेश्वर तक जावे।",
+    "photo": "",
+    "location": "22.129234064590204, 75.2575489258155"
+  },
+  {
+    "ref": 283,
+    "place": "देवलरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.152759548141326, 75.27359922417541"
+  },
+  {
+    "ref": 284,
+    "place": "मोध",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.165458303688002, 75.2901245118288"
+  },
+  {
+    "ref": 285,
+    "place": "पगारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.175337422470207, 75.31264708927097"
+  },
+  {
+    "ref": 286,
+    "place": "पिपल्याखुट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.1922830884491, 75.31632889199585"
+  },
+  {
+    "ref": 287,
+    "place": "अहिरवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.232438906885946, 75.33130543816985"
+  },
+  {
+    "ref": 288,
+    "place": "काली बावडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.252590282154696, 75.34695049215733"
+  },
+  {
+    "ref": 289,
+    "place": "छितरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.253384663014597, 75.35046955039974"
+  },
+  {
+    "ref": 290,
+    "place": "कोयलावार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.271330582482797, 75.36339245655896"
+  },
+  {
+    "ref": 291,
+    "place": "बंधावा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.29927539561011, 75.37207813446308"
+  },
+  {
+    "ref": 292,
+    "place": "मांडवगड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.34647370829212, 75.39834374884472"
+  },
+  {
+    "ref": 297,
+    "place": "रेवा कुंड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.313615760022667, 75.40737472553836"
+  },
+  {
+    "ref": 298,
+    "place": "हीरापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.281455860594974, 75.41456616106045"
+  },
+  {
+    "ref": 299,
+    "place": "बंजारी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.26281087672189, 75.45077247044013"
+  },
+  {
+    "ref": 300,
+    "place": "भगवानिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.270419584723683, 75.4206656161589"
+  },
+  {
+    "ref": 301,
+    "place": "कोण्डा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.245016863578726, 75.45094413190132"
+  },
+  {
+    "ref": 302,
+    "place": "गुलझरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.234847841319915, 75.45978469275776"
+  },
+  {
+    "ref": 303,
+    "place": "धामनोद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.217744981664847, 75.47327435172652"
+  },
+  {
+    "ref": 304,
+    "place": "खलघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.154619038053266, 75.45328740446988"
+  },
+  {
+    "ref": 305,
+    "place": "मोरगढी",
+    "accmodation": "राधाकुंज आश्रम, अन्नक्षेत्र",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.15616125335349, 75.47684112854722"
+  },
+  {
+    "ref": 306,
+    "place": "बलवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.162219860358938, 75.48869623329121"
+  },
+  {
+    "ref": 307,
+    "place": "जलकोटि",
+    "accmodation": "नर्मदा आश्रय",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.160711195105232, 75.5386541783672"
+  },
+  {
+    "ref": 308,
+    "place": "महेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633683297/parikrama/308.png",
+    "location": "22.16985532049202, 75.58760033195499"
+  },
+  {
+    "ref": 309,
+    "place": "मंडलेश्वर",
+    "accmodation": "माँ नर्मदा आश्रय स्थल",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.173220362736323, 75.65903456791067"
+  },
+  {
+    "ref": 310,
+    "place": "जलुंद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.167151951459513, 75.69903677985224"
+  },
+  {
+    "ref": 311,
+    "place": "सुलगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.158646618690298, 75.72341269532926"
+  },
+  {
+    "ref": 312,
+    "place": "गोगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.166118620788655, 75.75439757385502"
+  },
+  {
+    "ref": 313,
+    "place": "पथराड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.18192373896701, 75.77703466855105"
+  },
+  {
+    "ref": 314,
+    "place": "बेगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.186082258460903, 75.81802416960439"
+  },
+  {
+    "ref": 315,
+    "place": "पितामली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.181612251284257, 75.86160268916134"
+  },
+  {
+    "ref": 316,
+    "place": "मैलखलग्या",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.18665380288302, 75.87957677960186"
+  },
+  {
+    "ref": 317,
+    "place": "धारेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.195420964350234, 75.91606226096924"
+  },
+  {
+    "ref": 318,
+    "place": "गंगाखेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.195580921635408, 75.93393062948314"
+  },
+  {
+    "ref": 319,
+    "place": "सेमरला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.200028555316273, 75.97931857630016"
+  },
+  {
+    "ref": 320,
+    "place": "विमलेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.21558847893173, 76.0101905664417"
+  },
+  {
+    "ref": 321,
+    "place": "रामपालघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.22611643867513, 76.01855905851454"
+  },
+  {
+    "ref": 322,
+    "place": "मेहता खेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.229731518147325, 76.03027494754336"
+  },
+  {
+    "ref": 323,
+    "place": "खेडीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.22949316411995, 76.04748400049245"
+  },
+  {
+    "ref": 324,
+    "place": "चारुकेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.2336696118534, 76.06633521068885"
+  },
+  {
+    "ref": 325,
+    "place": "बडवाह",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.254247870871747, 76.03690203394882"
+  },
+  {
+    "ref": 326,
+    "place": "डोलारी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.2476780780255, 76.09084057704844"
+  },
+  {
+    "ref": 327,
+    "place": "कोटेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.248835604938833, 76.09315502922549"
+  },
+  {
+    "ref": 328,
+    "place": "कोठावा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.259956824743064, 76.12525570668794"
+  },
+  {
+    "ref": 329,
+    "place": "च्यवनाश्रम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.282221534535296, 76.11579513211802"
+  },
+  {
+    "ref": 330,
+    "place": "कुंडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.337984144937067, 76.14447331094581"
+  },
+  {
+    "ref": 331,
+    "place": "बडेल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.37354622693613, 76.16953587182037"
+  },
+  {
+    "ref": 332,
+    "place": "मेहंदीखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.397355043923746, 76.19665836920517"
+  },
+  {
+    "ref": 333,
+    "place": "तरान्या",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.40628230001906, 76.2214848959607"
+  },
+  {
+    "ref": 334,
+    "place": "पिपरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.404992843070406, 76.2765238248819"
+  },
+  {
+    "ref": 335,
+    "place": "सीतावन-वाल्मीक आश्रम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.390470746455147, 76.2861368619841"
+  },
+  {
+    "ref": 336,
+    "place": "तातूखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.383804358612704, 76.30484795214903"
+  },
+  {
+    "ref": 337,
+    "place": "जामली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.352372798936265, 76.34244179356863"
+  },
+  {
+    "ref": 338,
+    "place": "नरसिहपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.352372798936265, 76.34244179356863"
+  },
+  {
+    "ref": 341,
+    "place": "धाराजी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.31861178888265, 76.35104243397072"
+  },
+  {
+    "ref": 342,
+    "place": "गुवादी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.333370148092204, 76.3772702161647"
+  },
+  {
+    "ref": 343,
+    "place": "प्रेमगढ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.35153119372907, 76.41620376404786"
+  },
+  {
+    "ref": 344,
+    "place": "भटखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.34637189507087, 76.45100780252858"
+  },
+  {
+    "ref": 345,
+    "place": "पामाखेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.33606457037596, 76.60742332592673"
+  },
+  {
+    "ref": 346,
+    "place": "डांग",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.343130178894107, 76.62853767530795"
+  },
+  {
+    "ref": 347,
+    "place": "दंठा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.347682254532938, 76.63575953567451"
+  },
+  {
+    "ref": 348,
+    "place": "नंदाणा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.353000898040598, 76.6453725727223"
+  },
+  {
+    "ref": 349,
+    "place": "भामर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.37431900672968, 76.64693883672548"
+  },
+  {
+    "ref": 350,
+    "place": "पोखर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.375112695198524, 76.68135694258405"
+  },
+  {
+    "ref": 351,
+    "place": "झांझर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.335487410983237, 76.67946494002834"
+  },
+  {
+    "ref": 352,
+    "place": "कीटीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.368595756431194, 76.76559466074127"
+  },
+  {
+    "ref": 353,
+    "place": "फतेहगढ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.42764101037805, 76.78651628313185"
+  },
+  {
+    "ref": 354,
+    "place": "मेलपिपल्या",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.447950214204862, 76.79321107679012"
+  },
+  {
+    "ref": 355,
+    "place": "मिर्झापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.45136123414253, 76.81243715088567"
+  },
+  {
+    "ref": 356,
+    "place": "तमखाण",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.45776532983172, 76.83030111417337"
+  },
+  {
+    "ref": 357,
+    "place": "सिराल्या",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.459478766450083, 76.84143238809341"
+  },
+  {
+    "ref": 358,
+    "place": "राजौरे",
+    "accmodation": "संत परिक्रमा वासी सेवा",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.484145223026594, 76.87301808146535"
+  },
+  {
+    "ref": 359,
+    "place": "बागदी संगम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.484462447942793, 76.89353161599377"
+  },
+  {
+    "ref": 360,
+    "place": "मंडलेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.487912221202194, 76.9014280393875"
+  },
+  {
+    "ref": 361,
+    "place": "बजवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.494947846791153, 76.92917663867259"
+  },
+  {
+    "ref": 362,
+    "place": "नेमावर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.49909612212265, 76.98108931927648"
+  },
+  {
+    "ref": 363,
+    "place": "मेलघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.499089361076855, 76.99870195072734"
+  },
+  {
+    "ref": 364,
+    "place": "कुंड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.49902266010234, 77.0061435260107"
+  },
+  {
+    "ref": 365,
+    "place": "तूरनल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.498983011130555, 77.02451129332545"
+  },
+  {
+    "ref": 366,
+    "place": "गौनी संगम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.497833188297786, 77.03305144683304"
+  },
+  {
+    "ref": 367,
+    "place": "दैयत",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.501360029738624, 77.03911796108348"
+  },
+  {
+    "ref": 368,
+    "place": "चिचली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.513016114710446, 77.06933036349209"
+  },
+  {
+    "ref": 369,
+    "place": "करौदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.524433367261725, 77.09018722065825"
+  },
+  {
+    "ref": 370,
+    "place": "बीजलगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.53667835339534, 77.10369313943907"
+  },
+  {
+    "ref": 371,
+    "place": "पिंपलनेरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.5463911,77.1110158"
+  },
+  {
+    "ref": 372,
+    "place": "छीपानेर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.5812243708055, 77.14703763698712"
+  },
+  {
+    "ref": 373,
+    "place": "सातदेव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.587532770194233, 77.20717065531487"
+  },
+  {
+    "ref": 374,
+    "place": "सीलकंठ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.59346080053976, 77.24176908537768"
+  },
+  {
+    "ref": 375,
+    "place": "नीलकंठ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.609784000113333, 77.27507139265226"
+  },
+  {
+    "ref": 377,
+    "place": "छितगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.594966418984534, 77.29369665202583"
+  },
+  {
+    "ref": 378,
+    "place": "डिमावर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.587438160229375, 77.34296346707659"
+  },
+  {
+    "ref": 379,
+    "place": "बाबरी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.611596390677306, 77.36179892536394"
+  },
+  {
+    "ref": 380,
+    "place": "मठा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.62583127382307, 77.41821896162041"
+  },
+  {
+    "ref": 381,
+    "place": "नेलाई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.631569142380975, 77.43095283745545"
+  },
+  {
+    "ref": 382,
+    "place": "रेऊगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.637074931967977, 77.43769054645769"
+  },
+  {
+    "ref": 383,
+    "place": "मर्दानपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.65204639526879, 77.46026401754844"
+  },
+  {
+    "ref": 384,
+    "place": "आवलीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.64844230342843, 77.49103431934881"
+  },
+  {
+    "ref": 385,
+    "place": "गांजी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.6564820710913, 77.50940208672914"
+  },
+  {
+    "ref": 386,
+    "place": "पिथोडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.673352170650144, 77.53038769010593"
+  },
+  {
+    "ref": 387,
+    "place": "तालपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.680525276745893, 77.55948450777906"
+  },
+  {
+    "ref": 388,
+    "place": "साततुमडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.68899870156545, 77.58102801047664"
+  },
+  {
+    "ref": 389,
+    "place": "निनोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.711644722433327, 77.58815195757457"
+  },
+  {
+    "ref": 391,
+    "place": "सप्तधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.73504027586386, 77.61095421863479"
+  },
+  {
+    "ref": 392,
+    "place": "होलीपुरा",
+    "accmodation": "मौनी बाबा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.74234393286385, 77.61675196840896"
+  },
+  {
+    "ref": 393,
+    "place": "देवगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.763479241814927, 77.63210424416873"
+  },
+  {
+    "ref": 394,
+    "place": "पिली कराल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.771907959710532, 77.63560184472158"
+  },
+  {
+    "ref": 395,
+    "place": "होशंगाबाद फाटा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.77478584980952, 77.67768488226227"
+  },
+  {
+    "ref": 397,
+    "place": "बुधनी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633686787/parikrama/397.png",
+    "location": "22.764752669423604, 77.68689026560202"
+  },
+  {
+    "ref": 398,
+    "place": "बुधनी गाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.796989889124568, 77.68905208414338"
+  },
+  {
+    "ref": 399,
+    "place": "गुलझारी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.769129783044967, 77.71275744732891"
+  },
+  {
+    "ref": 400,
+    "place": "जोशीपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.769639258883483, 77.72521899046691"
+  },
+  {
+    "ref": 401,
+    "place": "बगवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.777503744971522, 77.74109766788754"
+  },
+  {
+    "ref": 402,
+    "place": "रामनगर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.794438054946585, 77.762254932525"
+  },
+  {
+    "ref": 403,
+    "place": "बांदराभान",
+    "accmodation": "परिक्रमानवासी आश्रय स्थल",
+    "food": "TRUE",
+    "visheshsthan": "नागद्वारी मंदिर, बाई राम आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633689880/parikrama/403.png",
+    "location": "22.80298347734706, 77.77685200473641"
+  },
+  {
+    "ref": 404,
+    "place": "शाहगंज चिचली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.846902314053334, 77.80027401615573"
+  },
+  {
+    "ref": 406,
+    "place": "माधवन",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "मांडव ऋषि आश्रम",
+    "photo": "",
+    "location": "22.861999606628153, 77.81972266162254"
+  },
+  {
+    "ref": 407,
+    "place": "जवाहरखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.883636781752468, 77.85655304510387"
+  },
+  {
+    "ref": 408,
+    "place": "हतनोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.864400300898293, 77.87412687857449"
+  },
+  {
+    "ref": 409,
+    "place": "सरदार नगर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.85152418281939, 77.89559715312264"
+  },
+  {
+    "ref": 410,
+    "place": "नारायणपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.8428630913473, 77.9347359470113"
+  },
+  {
+    "ref": 411,
+    "place": "नांदनेर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.8320476394783, 77.96643785259967"
+  },
+  {
+    "ref": 412,
+    "place": "कुसुमखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.828433384932868, 77.98922266889547"
+  },
+  {
+    "ref": 413,
+    "place": "भारकच्छ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.819484730465692, 78.05424627199075"
+  },
+  {
+    "ref": 414,
+    "place": "गदार्वास",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.816317823078595, 78.07308574131966"
+  },
+  {
+    "ref": 415,
+    "place": "सनखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.85330267972794, 78.1407849014989"
+  },
+  {
+    "ref": 416,
+    "place": "मोतलसर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.87520792723505, 78.17014415553498"
+  },
+  {
+    "ref": 417,
+    "place": "बगलवाडा",
+    "accmodation": "श्री हनुमान मंदिर - राधे किर्श्ना आश्रम",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.899966270201638, 78.20759545815551"
+  },
+  {
+    "ref": 418,
+    "place": "सतरावन",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.88475066625718, 78.22813066579037"
+  },
+  {
+    "ref": 419,
+    "place": "डूमर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.878345451302042, 78.26533826905577"
+  },
+  {
+    "ref": 420,
+    "place": "मांगरोल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.92487614853398, 78.327226800193"
+  },
+  {
+    "ref": 421,
+    "place": "बरहा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.956600009172682, 78.38702921593305"
+  },
+  {
+    "ref": 422,
+    "place": "केतोघान",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.97728129409268, 78.42006432234979"
+  },
+  {
+    "ref": 423,
+    "place": "बोरास",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.015241713756247, 78.51311010405482"
+  },
+  {
+    "ref": 424,
+    "place": "चौरास",
+    "accmodation": "माँ नरमदा परिक्रमावासी अन्नक्षेत्र",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.016189694120243, 78.53988927882865"
+  },
+  {
+    "ref": 425,
+    "place": "केलकच्छ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.0353848624682, 78.61415428205518"
+  },
+  {
+    "ref": 426,
+    "place": "अनघोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.03133796739114, 78.64028307779519"
+  },
+  {
+    "ref": 427,
+    "place": "पतैघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.032890052435295, 78.65955288051246"
+  },
+  {
+    "ref": 428,
+    "place": "शूकलपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.04067017546766, 78.68092472189997"
+  },
+  {
+    "ref": 429,
+    "place": "तिम्रवान",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.064006717833752, 78.73378468337809"
+  },
+  {
+    "ref": 430,
+    "place": "हीरापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.050804317229428, 78.7655970454521"
+  },
+  {
+    "ref": 431,
+    "place": "करौदी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.05993654007515, 78.81441636502352"
+  },
+  {
+    "ref": 432,
+    "place": "बेलथारी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.05021198238128, 78.86009663340964"
+  },
+  {
+    "ref": 405,
+    "place": "सिमरिया खुर्द",
+    "accmodation": "मैया की कुटिया अन्नक्षेत्र",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.055473798432736, 78.87819752098453"
+  },
+  {
+    "ref": 433,
+    "place": "झीरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "झिरी घाट आश्रम",
+    "photo": "",
+    "location": "23.055118410213325, 78.89229521153435"
+  },
+  {
+    "ref": 434,
+    "place": "रुकवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.0773283709539, 78.96617397669395"
+  },
+  {
+    "ref": 435,
+    "place": "चावरपाठा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.049911037145847, 79.008881993729"
+  },
+  {
+    "ref": 436,
+    "place": "रामघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.037826811961718, 79.00257343816916"
+  },
+  {
+    "ref": 437,
+    "place": "बरमानघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.0300119667201, 79.01896709962912"
+  },
+  {
+    "ref": 438,
+    "place": "सतधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.02312578857395, 79.03200227954228"
+  },
+  {
+    "ref": 439,
+    "place": "छोटी धुवाधार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.042353749538925, 79.08945470797501"
+  },
+  {
+    "ref": 440,
+    "place": "गुरसी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.057932196507004, 79.10362213599684"
+  },
+  {
+    "ref": 441,
+    "place": "गोकला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.070038302730428, 79.1150391975219"
+  },
+  {
+    "ref": 442,
+    "place": "रामपुरा",
+    "accmodation": "चितलेस सेवा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.078776698853087, 79.13398973250293"
+  },
+  {
+    "ref": 443,
+    "place": "केरपाणी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.071667647011896, 79.16461721061678"
+  },
+  {
+    "ref": 444,
+    "place": "पिठेहरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.077954882096385, 79.20055227392103"
+  },
+  {
+    "ref": 445,
+    "place": "मुर्गाखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.087487996258247, 79.24476526581923"
+  },
+  {
+    "ref": 446,
+    "place": "डोंगरगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.09850194373275, 79.26206014958596"
+  },
+  {
+    "ref": 447,
+    "place": "रोहणी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.097575711002328, 79.29239071144214"
+  },
+  {
+    "ref": 448,
+    "place": "कुरेला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.097575711002328, 79.29239071144214"
+  },
+  {
+    "ref": 449,
+    "place": "आमोदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10186087176036, 79.33047833982293"
+  },
+  {
+    "ref": 450,
+    "place": "धूमगढ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.101861683885826, 79.3304172106082"
+  },
+  {
+    "ref": 451,
+    "place": "हीरापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.110540085536755, 79.34132892498612"
+  },
+  {
+    "ref": 452,
+    "place": "जुगपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.110802226830472, 79.3669596262096"
+  },
+  {
+    "ref": 453,
+    "place": "पावला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.11609127422128, 79.37610059456648"
+  },
+  {
+    "ref": 454,
+    "place": "बेलखेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.103602084751838, 79.40094307683935"
+  },
+  {
+    "ref": 455,
+    "place": "बरबटी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "बरबटी नर्मदा धाम",
+    "photo": "",
+    "location": "23.108930887677296, 79.41922501354782"
+  },
+  {
+    "ref": 456,
+    "place": "कुदा कलान",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.110436000269107, 79.45225235609199"
+  },
+  {
+    "ref": 457,
+    "place": "झलोन",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.122143245415682, 79.4766756395673"
+  },
+  {
+    "ref": 458,
+    "place": "सुनाचर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.144440781491927, 79.50083697830799"
+  },
+  {
+    "ref": 459,
+    "place": "छरौआ घाट",
+    "accmodation": "श्री प्रेमेश्वर महादेव आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.145581279628193, 79.52077567571725"
+  },
+  {
+    "ref": 460,
+    "place": "बेलपठार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.117045818683067, 79.61737501039197"
+  },
+  {
+    "ref": 461,
+    "place": "धीमर झोझी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.109112225896915, 79.63634359242374"
+  },
+  {
+    "ref": 462,
+    "place": "मल्कछार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.107163829243838, 79.65653174901946"
+  },
+  {
+    "ref": 463,
+    "place": "शीतलपुर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.097935209371734, 79.66634235171595"
+  },
+  {
+    "ref": 466,
+    "place": "जलहरी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632549233/parikrama/466.png",
+    "location": "23.104645802415753, 79.67535457399468"
+  },
+  {
+    "ref": 467,
+    "place": "कुलोन",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632551303/parikrama/467.png",
+    "location": "23.10752730710597, 79.6971984841517"
+  },
+  {
+    "ref": 468,
+    "place": "सिध्दघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.11175077071972, 79.70312080167498"
+  },
+  {
+    "ref": 469,
+    "place": "बिजना घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.113526954189965, 79.71118888645634"
+  },
+  {
+    "ref": 470,
+    "place": "पिपरिया रामघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.11475053349762, 79.7362514474241"
+  },
+  {
+    "ref": 471,
+    "place": "गौबच्चा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632553455/parikrama/471.png",
+    "location": "23.137996420516643, 79.78362998744306"
+  },
+  {
+    "ref": 472,
+    "place": "सरस्वतीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.138892987653858, 79.79978742934505"
+  },
+  {
+    "ref": 473,
+    "place": "भेडाघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "चौसठ योगिनी मंदिर,  धुंआधार",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632553448/parikrama/473.png",
+    "location": "23.1323025017442, 79.80086031302822"
+  },
+  {
+    "ref": 474,
+    "place": "गोपालपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "पंचमाथा मंदिर, श्री लक्ष्मीनारायण मंदिर, कल्यानिका तपोवन, श्री पीठम् ध्यान मंदिर",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632554744/parikrama/474.png",
+    "location": "23.117581265020828, 79.82399168355585"
+  },
+  {
+    "ref": 475,
+    "place": "लम्हेटा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "कुम्भेश्वर मंदिर, राधा कृष्णा मंदिर, श्री श्री 1008 परमहंस आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632556041/parikrama/475.png",
+    "location": "23.109410873829354, 79.82858362536847"
+  },
+  {
+    "ref": 476,
+    "place": "संत घाट लम्हेटा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.106292574109247, 79.82884111744627"
+  },
+  {
+    "ref": 478,
+    "place": "तिलवाराघाट",
+    "accmodation": "यात्री निवास धर्मशाला",
+    "food": "",
+    "visheshsthan": "शनि धाम, 11 मुखी हनुमान मंदिर ललपुर",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632557095/parikrama/478.png",
+    "location": "23.110476605135144, 79.874846366407"
+  },
+  {
+    "ref": 479,
+    "place": "ग्वारीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "उमाघाट पर शाम की आरती प्रतिदिन सायं 7 बजे से शुरू होती है. सुखेश्वर धाम मंदिर, श्रीपाद आश्रम,  गंगा कुंड, दक्षिणमुखी हनुमान मंदिर",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632559299/parikrama/479.png",
+    "location": "23.10687278987382, 79.92579843072181"
+  },
+  {
+    "ref": 480,
+    "place": "जिलेहरी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632560306/parikrama/480.png",
+    "location": "23.10610800923201, 79.93091072112557"
+  },
+  {
+    "ref": 476,
+    "place": "कालीधाम घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "संत परमहंस जी का आश्रम",
+    "photo": "",
+    "location": "23.10150936550516, 79.94197751550318"
+  },
+  {
+    "ref": 477,
+    "place": "भटौली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.112590337072593, 79.96725665247347"
+  },
+  {
+    "ref": 478,
+    "place": "भवानीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10395725717396, 79.98265809013456"
+  },
+  {
+    "ref": 481,
+    "place": "खिरैनी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10468751109857, 79.98426741553318"
+  },
+  {
+    "ref": 482,
+    "place": "गौर संगम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.107292708997754, 79.99216383888607"
+  },
+  {
+    "ref": 483,
+    "place": "सालीवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.108453776836186, 79.99824304158793"
+  },
+  {
+    "ref": 485,
+    "place": "बरेला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.1045825,80.0086288"
+  },
+  {
+    "ref": 487,
+    "place": "रींछाई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.08823664855902, 80.06991968409443"
+  },
+  {
+    "ref": 488,
+    "place": "धनपूरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.09478982221157, 80.15403375877939"
+  },
+  {
+    "ref": 489,
+    "place": "पडतला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.099684755437497, 80.17283067963109"
+  },
+  {
+    "ref": 491,
+    "place": "पहाडीखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.099898677708985, 80.17236261413031"
+  },
+  {
+    "ref": 492,
+    "place": "मनेरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.111819443297367, 80.24832277322528"
+  },
+  {
+    "ref": 493,
+    "place": "गोरांबा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.110092263571048, 80.25542492320118"
+  },
+  {
+    "ref": 494,
+    "place": "कोहनी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10661872744013, 80.27439350532426"
+  },
+  {
+    "ref": 495,
+    "place": "हरदुली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.09778042600202, 80.33907862212925"
+  },
+  {
+    "ref": 496,
+    "place": "गुंदलयी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.092594991881924, 80.40623557919882"
+  },
+  {
+    "ref": 497,
+    "place": "खडदेवरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.068092025221333, 80.43881333944809"
+  },
+  {
+    "ref": 498,
+    "place": "गैजदेवरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.04966836326418, 80.43742315226368"
+  },
+  {
+    "ref": 500,
+    "place": "निवास",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.04651122201143, 80.44541617354074"
+  },
+  {
+    "ref": 501,
+    "place": "बिझौरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.090107018896774, 80.47802252345889"
+  },
+  {
+    "ref": 502,
+    "place": "बिछीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.089928079185924, 80.56622537906085"
+  },
+  {
+    "ref": 503,
+    "place": "कटंगी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.100865968640345, 80.59951626056441"
+  },
+  {
+    "ref": 504,
+    "place": "बंजर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.124864138797825, 80.63230358357397"
+  },
+  {
+    "ref": 505,
+    "place": "शहपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.184525183232672, 80.69907985918826"
+  },
+  {
+    "ref": 506,
+    "place": "वज्रेश्वरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.133798709597084, 80.76438037348406"
+  },
+  {
+    "ref": 507,
+    "place": "अमठेरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.11971756375781, 80.77334036702203"
+  },
+  {
+    "ref": 508,
+    "place": "बरझड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.108981659002346, 80.78346838834915"
+  },
+  {
+    "ref": 509,
+    "place": "अमेरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.103060755779918, 80.81582655793717"
+  },
+  {
+    "ref": 510,
+    "place": "डोंगरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.08034898119456, 80.84826561429003"
+  },
+  {
+    "ref": 513,
+    "place": "विकमपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.07774326077982, 80.90431305389323"
+  },
+  {
+    "ref": 514,
+    "place": "नूनखान",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.07228424288746, 80.92581885388063"
+  },
+  {
+    "ref": 515,
+    "place": "धनगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.04845729996334, 80.98278151395262"
+  },
+  {
+    "ref": 518,
+    "place": "शाहपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.023772560310412, 81.00364881032729"
+  },
+  {
+    "ref": 519,
+    "place": "जोगिटिकरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.969763130735352, 81.04582343311993"
+  },
+  {
+    "ref": 520,
+    "place": "देवरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.953031248445427, 81.07674465124347"
+  },
+  {
+    "ref": 522,
+    "place": "भेसला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.949790773439137, 81.11159191054166"
+  },
+  {
+    "ref": 523,
+    "place": "लूटगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.953788831063708, 81.14342918835852"
+  },
+  {
+    "ref": 525,
+    "place": "ऊदरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.953749313760827, 81.15149727314105"
+  },
+  {
+    "ref": 526,
+    "place": "रुशा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.947321431091225, 81.17805454751638"
+  },
+  {
+    "ref": 527,
+    "place": "दूधी शेषघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.94526332131819, 81.19274074815769"
+  },
+  {
+    "ref": 533,
+    "place": "कंडीकापा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "घुर्रा > बेलटोला > झंडीटोला > संगमटोला",
+    "photo": "",
+    "location": "22.91563422516849, 81.2215999304319"
+  },
+  {
+    "ref": 534,
+    "place": "बीजापूरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.907108946963103, 81.25824594137016"
+  },
+  {
+    "ref": 535,
+    "place": "कछरटोला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.90133731032178, 81.27712869288607"
+  },
+  {
+    "ref": 536,
+    "place": "टेढी संगम चंदनघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.88320717102195, 81.30222490892672"
+  },
+  {
+    "ref": 539,
+    "place": "वसंतपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.86353121590967, 81.33624513214218"
+  },
+  {
+    "ref": 541,
+    "place": "कंचनपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.86264137937043, 81.36470761667907"
+  },
+  {
+    "ref": 543,
+    "place": "ठांडपठार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.845082767596974, 81.42084088689762"
+  },
+  {
+    "ref": 544,
+    "place": "दम्हेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.822786205655394, 81.439461245071"
+  },
+  {
+    "ref": 545,
+    "place": "विलासपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.804044458387857, 81.53497985219693"
+  },
+  {
+    "ref": 547,
+    "place": "खाटी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.807684012659823, 81.60381606416703"
+  },
+  {
+    "ref": 548,
+    "place": "घुधवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.78862792544514, 81.65856105657299"
+  },
+  {
+    "ref": 549,
+    "place": "मिरीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.784051796602142, 81.68042331937832"
+  },
+  {
+    "ref": 550,
+    "place": "फेरीसेमर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.764174332638223, 81.6987727341542"
+  },
+  {
+    "ref": 551,
+    "place": "दमगढ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.7492088683194, 81.70426279307388"
+  },
+  {
+    "ref": 552,
+    "place": "पंचधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.72381799220149, 81.6999068856432"
+  },
+  {
+    "ref": 553,
+    "place": "दूधधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.7028947173698, 81.70291344693096"
+  },
+  {
+    "ref": 554,
+    "place": "कपिलधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.70226127265777, 81.70701186231327"
+  },
+  {
+    "ref": 555,
+    "place": "अमरकंटक",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.68307017430796, 81.75344455984896"
+  },
+  {
+    "ref": 559,
+    "place": "माई की बगिया",
+    "accmodation": "",
+    "food": "TRUE",
+    "visheshsthan": "नर्मदा जी उद्गम स्थान , तुरिया आश्रम भगत गिरि, तपस्वी सूरजनाथ समाधी, क्रिया योगी अमरकंटक आश्रम, उमा भारती आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632570060/parikrama/559.png",
+    "location": "22.66863651041734, 81.77014394198348"
+  },
+  {
+    "ref": 560,
+    "place": "सोनमूडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "सोनभद्र नदी उद्गम स्थल",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632592335/parikrama/560.png",
+    "location": "22.66017894501289, 81.76475803717365"
+  },
+  {
+    "ref": 561,
+    "place": "नर्मदा कुंड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632594273/parikrama/561.png",
+    "location": "22.672271238307207, 81.75888335730697"
+  },
+  {
+    "ref": 562,
+    "place": "कबीर चबुतरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632592345/parikrama/562.png",
+    "location": "22.67624163694611, 81.72719466769195"
+  },
+  {
+    "ref": 563,
+    "place": "करमंडल,जगतपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.676941209702257, 81.70257950035041"
+  },
+  {
+    "ref": 565,
+    "place": "करंजिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.70926891010508, 81.63607227027214"
+  },
+  {
+    "ref": 567,
+    "place": "रुषा अमलडेही",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.73484862316656, 81.5108180501297"
+  },
+  {
+    "ref": 568,
+    "place": "गोरखपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.760319007389175, 81.4664890942992"
+  },
+  {
+    "ref": 569,
+    "place": "मोहतरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.808174098602652, 81.42948776111977"
+  },
+  {
+    "ref": 570,
+    "place": "गाडासराई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.821687052109187, 81.32959807288742"
+  },
+  {
+    "ref": 571,
+    "place": "बरगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.825879899872042, 81.31268942723445"
+  },
+  {
+    "ref": 572,
+    "place": "बोंदर गाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.828806905689053, 81.2973257340956"
+  },
+  {
+    "ref": 573,
+    "place": "सुनियामार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.832604008629595, 81.26865828427312"
+  },
+  {
+    "ref": 574,
+    "place": "विझोरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.861708331283854, 81.22450639453753"
+  },
+  {
+    "ref": 575,
+    "place": "खरगहना",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.86718508425119, 81.21693183632799"
+  },
+  {
+    "ref": 577,
+    "place": "पिंडरुखी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.87001234700822, 81.20819856373573"
+  },
+  {
+    "ref": 576,
+    "place": "हर्रा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "कुकरामठ",
+    "photo": "",
+    "location": "22.8865042173862, 81.18962957724014"
+  },
+  {
+    "ref": 579,
+    "place": "कुंडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.894318147181774, 81.16522320966294"
+  },
+  {
+    "ref": 581,
+    "place": "डिंडोरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.93805056421789, 81.0794229725289"
+  },
+  {
+    "ref": 582,
+    "place": "ईमलयी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.918920455085622, 80.9988298396497"
+  },
+  {
+    "ref": 584,
+    "place": "सलैया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.91164720556136, 80.95127963807748"
+  },
+  {
+    "ref": 585,
+    "place": "किसलपूरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.912595912584962, 80.93570136801421"
+  },
+  {
+    "ref": 586,
+    "place": "सक्का",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.900782280606002, 80.89357586828568"
+  },
+  {
+    "ref": 587,
+    "place": "राईगाम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.893922221952337, 80.83899288639036"
+  },
+  {
+    "ref": 588,
+    "place": "हर्राटोला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.872626517033595, 80.78248224767152"
+  },
+  {
+    "ref": 589,
+    "place": "गीधलोंडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.868203375223032, 80.74526043833596"
+  },
+  {
+    "ref": 590,
+    "place": "चावी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.829604659992235, 80.70251675570015"
+  },
+  {
+    "ref": 591,
+    "place": "खाले दिठोरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.812832952825516, 80.64569683997378"
+  },
+  {
+    "ref": 593,
+    "place": "मोहगाव फाटा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "गुप्त गंगा",
+    "photo": "",
+    "location": "22.780533015446952, 80.61269871445771"
+  },
+  {
+    "ref": 596,
+    "place": "इन्द्रा > रेहगाव > सालीवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "नर्मदा परिक्रमा सेवा",
+    "photo": "",
+    "location": "22.747605570316104, 80.56344261685379"
+  },
+  {
+    "ref": 597,
+    "place": "देवगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.713541408378838, 80.54781645872832"
+  },
+  {
+    "ref": 598,
+    "place": "बिलगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.683769499203155, 80.51537501697553"
+  },
+  {
+    "ref": 599,
+    "place": "पलेहरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.653075214838278, 80.52132928630877"
+  },
+  {
+    "ref": 600,
+    "place": "झीना",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.66504515027963, 80.53172553928093"
+  },
+  {
+    "ref": 601,
+    "place": "चोगान",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.64020084811821, 80.5252995994005"
+  },
+  {
+    "ref": 602,
+    "place": "रामनगर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.613162207943102, 80.5157187285411"
+  },
+  {
+    "ref": 603,
+    "place": "मधुपुरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.570605868156136, 80.45256810108742"
+  },
+  {
+    "ref": 604,
+    "place": "अमगमा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.56227558052854, 80.42703003296485"
+  },
+  {
+    "ref": 605,
+    "place": "पद्मी चौराहा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.555758634682515, 80.40789757498598"
+  },
+  {
+    "ref": 606,
+    "place": "सूर्यकुंड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.583870526269305, 80.38984030362842"
+  },
+  {
+    "ref": 607,
+    "place": "महाराजपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.587328915663743, 80.35895569106266"
+  },
+  {
+    "ref": 608,
+    "place": "सहस्त्रधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.63427479154853, 80.32578212994399"
+  },
+  {
+    "ref": 609,
+    "place": "घाघ",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.70575224703771, 80.32174808768376"
+  },
+  {
+    "ref": 610,
+    "place": "सूरजपूरा > ठोडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.710186185435138, 80.291235277767"
+  },
+  {
+    "ref": 612,
+    "place": "साल्हेदांडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.710859181389566, 80.2589200234388"
+  },
+  {
+    "ref": 613,
+    "place": "निचली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.732868283832346, 80.27243835726352"
+  },
+  {
+    "ref": 614,
+    "place": "बुधेरा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.745256742321722, 80.27981979657079"
+  },
+  {
+    "ref": 615,
+    "place": "डोकरकुई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.757663808284253, 80.2312610854411"
+  },
+  {
+    "ref": 616,
+    "place": "पाटण",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.70040757709701, 80.18476230947206"
+  },
+  {
+    "ref": 618,
+    "place": "कुकरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.703196892556992, 80.17331199444479"
+  },
+  {
+    "ref": 619,
+    "place": "किंदरई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.717933322110223, 80.0943492031967"
+  },
+  {
+    "ref": 620,
+    "place": "पौन्डी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.71171820189487, 80.07186156289391"
+  },
+  {
+    "ref": 621,
+    "place": "कडुउठार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.718055023676676, 80.03765496781911"
+  },
+  {
+    "ref": 622,
+    "place": "दलका",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.72256773314033, 80.01490983538056"
+  },
+  {
+    "ref": 623,
+    "place": "घुटीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.735629998784006, 80.00503930618483"
+  },
+  {
+    "ref": 624,
+    "place": "साल्हेपाणी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.72996091335604, 79.97913727311231"
+  },
+  {
+    "ref": 625,
+    "place": "बिछीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.742428792667095, 79.96184238936078"
+  },
+  {
+    "ref": 626,
+    "place": "अतारीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.7505817749728, 79.94004139431149"
+  },
+  {
+    "ref": 627,
+    "place": "गोरखपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.744733264515727, 79.92212686133311"
+  },
+  {
+    "ref": 628,
+    "place": "दुर्जनपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.766161613150505, 79.92198783469819"
+  },
+  {
+    "ref": 629,
+    "place": "पलदरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.787470921894084, 79.90169915743773"
+  },
+  {
+    "ref": 630,
+    "place": "देवारी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.815743053474556, 79.8975925245311"
+  },
+  {
+    "ref": 631,
+    "place": "मेहेरपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.831406923684533, 79.89025400062535"
+  },
+  {
+    "ref": 632,
+    "place": "सूरजपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.83437336270999, 79.89025400110914"
+  },
+  {
+    "ref": 633,
+    "place": "साल्हेवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.892462084212212, 79.90032669567104"
+  },
+  {
+    "ref": 634,
+    "place": "तुनीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.90448024829591, 79.90281578562718"
+  },
+  {
+    "ref": 635,
+    "place": "गगंदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.920884904267428, 79.8989534045958"
+  },
+  {
+    "ref": 636,
+    "place": "बरगी कॉलनी > चौराई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.989313807407385, 79.8778564951241"
+  },
+  {
+    "ref": 638,
+    "place": "निगरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.039143070799046, 79.9033962898121"
+  },
+  {
+    "ref": 639,
+    "place": "मानेगाव > सिध्दनाथ कुटि",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.07734710074536, 79.91073706953792"
+  },
+  {
+    "ref": 641,
+    "place": "तिलवारा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10337309785668, 79.87915642502078"
+  },
+  {
+    "ref": 642,
+    "place": "नानाखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.088496865233488, 79.83187455438959"
+  },
+  {
+    "ref": 643,
+    "place": "त्रिशूल घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10157466709959, 79.82334142120912"
+  },
+  {
+    "ref": 644,
+    "place": "लमेटा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10802860130342, 79.8249423319683"
+  },
+  {
+    "ref": 645,
+    "place": "डुंडवारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.125101834464935, 79.79755653815508"
+  },
+  {
+    "ref": 646,
+    "place": "भेड़ाघाट बंदरकूदनी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.12560675369203, 79.79670432648548"
+  },
+  {
+    "ref": 648,
+    "place": "गुवारी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.129459657072097, 79.78712884029922"
+  },
+  {
+    "ref": 649,
+    "place": "बगराई",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.112921693013732, 79.75366692692913"
+  },
+  {
+    "ref": 650,
+    "place": "लालपुर",
+    "accmodation": "नर्मदा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.122785419891787, 79.77693930792134"
+  },
+  {
+    "ref": 651,
+    "place": "रामघाट",
+    "accmodation": "नर्मदा परिक्रमा आश्रय",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10863818379681, 79.73564207550888"
+  },
+  {
+    "ref": 652,
+    "place": "धरतीकछार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.097405696484408, 79.67789788932346"
+  },
+  {
+    "ref": 653,
+    "place": "भडपुरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.097152880953903, 79.64569067060913"
+  },
+  {
+    "ref": 654,
+    "place": "भीकमपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10007876682608, 79.61653713221058"
+  },
+  {
+    "ref": 655,
+    "place": "झासीघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.117299427015173, 79.5729162869875"
+  },
+  {
+    "ref": 656,
+    "place": "बेलखेडी > करैली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.131593690941397, 79.56476537189053"
+  },
+  {
+    "ref": 658,
+    "place": "मुआरघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.094091439151136, 79.46030999432666"
+  },
+  {
+    "ref": 659,
+    "place": "जमोनिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.10064609795323, 79.44207847803112"
+  },
+  {
+    "ref": 660,
+    "place": "ब्रह्मकुंड , सिध्ठेश्वर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.098567044175216, 79.40169546201287"
+  },
+  {
+    "ref": 662,
+    "place": "बुध घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.100937567434674, 79.37986764163324"
+  },
+  {
+    "ref": 663,
+    "place": "सांकल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.100937567367094, 79.35961159913404"
+  },
+  {
+    "ref": 664,
+    "place": "पिपरिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.091940248797787, 79.25999112559143"
+  },
+  {
+    "ref": 665,
+    "place": "गरारुघाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.070902760276645, 79.2012780864829"
+  },
+  {
+    "ref": 666,
+    "place": "सबनापूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.060162955214164, 79.153556225312"
+  },
+  {
+    "ref": 667,
+    "place": "चिनकी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.073034825312362, 79.13424431977313"
+  },
+  {
+    "ref": 668,
+    "place": "पिपरहा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.023086039388566, 79.09652834930313"
+  },
+  {
+    "ref": 669,
+    "place": "संगुन घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.012495141815755, 79.06378195927711"
+  },
+  {
+    "ref": 670,
+    "place": "सप्तधारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.02039493528881, 79.02979300685818"
+  },
+  {
+    "ref": 671,
+    "place": "ब्रह्मंड घाट (बरमान )",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.02687242062341, 79.01382849890383"
+  },
+  {
+    "ref": 672,
+    "place": "अंडिया घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.049895514930462, 78.95253008054367"
+  },
+  {
+    "ref": 673,
+    "place": "लिंगा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.045355240806103, 78.93057273109484"
+  },
+  {
+    "ref": 674,
+    "place": "पिठोरा घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.049479273116262, 78.88132148421204"
+  },
+  {
+    "ref": 675,
+    "place": "कोठिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.041801049505146, 78.85881827556148"
+  },
+  {
+    "ref": 676,
+    "place": "बिछुआ घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.04667268194838, 78.84109600852167"
+  },
+  {
+    "ref": 677,
+    "place": "धरेरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.05101652392471, 78.8259898074466"
+  },
+  {
+    "ref": 678,
+    "place": "भटेरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.044153531398848, 78.76950088784788"
+  },
+  {
+    "ref": 679,
+    "place": "काटजुनगर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.038150788733827, 78.73173538494848"
+  },
+  {
+    "ref": 680,
+    "place": "रिछावर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.037561798412497, 78.7202536161959"
+  },
+  {
+    "ref": 681,
+    "place": "सोकलपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.029808552567697, 78.67489391766912"
+  },
+  {
+    "ref": 682,
+    "place": "उसराया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.0184459368326, 78.6546789703285"
+  },
+  {
+    "ref": 683,
+    "place": "सोनादहार",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.027451267027047, 78.62429490655003"
+  },
+  {
+    "ref": 684,
+    "place": "अनघोरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.019735761978524, 78.61780031328695"
+  },
+  {
+    "ref": 686,
+    "place": "महुआ खेडा > पिथरास",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.01341811184358, 78.56453272604759"
+  },
+  {
+    "ref": 687,
+    "place": "खरौटी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.013050242052508, 78.55258055879693"
+  },
+  {
+    "ref": 688,
+    "place": "झकौली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.00705399827189, 78.53412900532966"
+  },
+  {
+    "ref": 689,
+    "place": "निमावर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.00444685975902, 78.50640569303371"
+  },
+  {
+    "ref": 690,
+    "place": "संदुक",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.00387347601188, 78.47218829760529"
+  },
+  {
+    "ref": 691,
+    "place": "दूधी संगम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.986906618711203, 78.44907079327591"
+  },
+  {
+    "ref": 692,
+    "place": "पासी घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.00387347601188, 78.47218829760529"
+  },
+  {
+    "ref": 693,
+    "place": "खैरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.94673243375751, 78.38987440640166"
+  },
+  {
+    "ref": 694,
+    "place": "सांडिया घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.9085405,78.331584"
+  },
+  {
+    "ref": 695,
+    "place": "सिवनी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.914611655087526, 78.33613748991186"
+  },
+  {
+    "ref": 696,
+    "place": "सेलवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.898634765978002, 78.31084172560212"
+  },
+  {
+    "ref": 697,
+    "place": "माछा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.869851408635856, 78.29230229691976"
+  },
+  {
+    "ref": 699,
+    "place": "कुब्जा संगम",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.867087884053912, 78.2701792447218"
+  },
+  {
+    "ref": 700,
+    "place": "भानपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.86582251564277, 78.2463183134194"
+  },
+  {
+    "ref": 701,
+    "place": "भटगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.869443615576017, 78.2233334835341"
+  },
+  {
+    "ref": 702,
+    "place": "साकला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.866966896297487, 78.18618522605912"
+  },
+  {
+    "ref": 703,
+    "place": "रेवा मोहरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.85842542423518, 78.166444167836"
+  },
+  {
+    "ref": 704,
+    "place": "रेवा वनखेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.84782692564689, 78.15099464400923"
+  },
+  {
+    "ref": 705,
+    "place": "ईसलपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.81048832265729, 78.13640342704853"
+  },
+  {
+    "ref": 706,
+    "place": "पामली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.78421859562322, 78.11717735290787"
+  },
+  {
+    "ref": 707,
+    "place": "रामनगर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.784851660401433, 78.10790763840663"
+  },
+  {
+    "ref": 708,
+    "place": "सांगाखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.79678509380128, 78.0408784825976"
+  },
+  {
+    "ref": 709,
+    "place": "मारा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.793107942233743, 78.01722881375926"
+  },
+  {
+    "ref": 710,
+    "place": "सर्रा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.792554044074247, 77.9986035544792"
+  },
+  {
+    "ref": 712,
+    "place": "बछवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.804849058154247, 77.96936840332633"
+  },
+  {
+    "ref": 713,
+    "place": "गणेरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.788707350532274, 77.9513439586601"
+  },
+  {
+    "ref": 714,
+    "place": "नगवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.767022811631755, 77.94374726209958"
+  },
+  {
+    "ref": 717,
+    "place": "गौघाट > बागलवाडी > बिकोर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.810768667153155, 77.90607230005521"
+  },
+  {
+    "ref": 719,
+    "place": "बिकोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.811113661878103, 77.90590720346341"
+  },
+  {
+    "ref": 721,
+    "place": "भटखेड़ा > धानसी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.83090913739317, 77.86068162506577"
+  },
+  {
+    "ref": 722,
+    "place": "सूर्यकुंड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.84949782287257, 77.86016664085292"
+  },
+  {
+    "ref": 723,
+    "place": "शुकरवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.851158815790725, 77.83364495828361"
+  },
+  {
+    "ref": 724,
+    "place": "सांगाखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.793916225656076, 77.81946713462165"
+  },
+  {
+    "ref": 725,
+    "place": "बांद्राभान",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.791542396732403, 77.78426163426165"
+  },
+  {
+    "ref": 726,
+    "place": "धानाबड",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.769703539592456, 77.76662344575696"
+  },
+  {
+    "ref": 727,
+    "place": "होशंगाबाद",
+    "accmodation": "नर्मदा सत्संग भवन",
+    "food": "",
+    "visheshsthan": "सेठानी घाट",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632675628/parikrama/727.png",
+    "location": "22.762588853311158, 77.71645444874045"
+  },
+  {
+    "ref": 728,
+    "place": "डोंगरवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.736465919191282, 77.6811473374644"
+  },
+  {
+    "ref": 729,
+    "place": "रंडाल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.740132, 77.644489"
+  },
+  {
+    "ref": 730,
+    "place": "खोकसर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.677662594711723, 77.5887000067372"
+  },
+  {
+    "ref": 731,
+    "place": "टिघरिया खरखेडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.66544059963619, 77.56704113441124"
+  },
+  {
+    "ref": 733,
+    "place": "कुलहड़ा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.64357552187818, 77.51897556902937"
+  },
+  {
+    "ref": 734,
+    "place": "आवली घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.642633011860028, 77.48836970660389"
+  },
+  {
+    "ref": 735,
+    "place": "गुवाडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.639695083423707, 77.47181453517273"
+  },
+  {
+    "ref": 736,
+    "place": "घोघरा",
+    "accmodation": "नर्मदा कुटि",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.61965174682131, 77.44164504822491"
+  },
+  {
+    "ref": 737,
+    "place": "पेथोडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.6023435,77.3845274"
+  },
+  {
+    "ref": 738,
+    "place": "बाबरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.60316927306411, 77.37270026218832"
+  },
+  {
+    "ref": 739,
+    "place": "चांदगढ कुटि",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.560294872628894, 77.33347563769678"
+  },
+  {
+    "ref": 740,
+    "place": "भिलाडीया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.548420560935142, 77.32782322433441"
+  },
+  {
+    "ref": 741,
+    "place": "कुंडाकला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.555469531357453, 77.29427038740018"
+  },
+  {
+    "ref": 742,
+    "place": "हमीदपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.55630181532195, 77.2837132127852"
+  },
+  {
+    "ref": 743,
+    "place": "अचनागांव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.557292623071184, 77.2495096835194"
+  },
+  {
+    "ref": 744,
+    "place": "गोदागाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.562603230900695, 77.21101461978911"
+  },
+  {
+    "ref": 746,
+    "place": "छिपानेर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.572989848134647, 77.17615021511277"
+  },
+  {
+    "ref": 747,
+    "place": "चिचोड कुटि",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.561740, 77.148260"
+  },
+  {
+    "ref": 748,
+    "place": "लछोरा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "रेवा कुटी",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632718688/parikrama/748.png",
+    "location": "22.552599, 77.133245"
+  },
+  {
+    "ref": 749,
+    "place": "समसाबाद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632718688/parikrama/749.png",
+    "location": "22.534837, 77.114391"
+  },
+  {
+    "ref": 750,
+    "place": "जलोदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "राम मंदिर गोयत",
+    "photo": "",
+    "location": "22.513298, 77.093076"
+  },
+  {
+    "ref": 751,
+    "place": "गोयद घाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.50427089932185, 77.08489000780527"
+  },
+  {
+    "ref": 752,
+    "place": "सुरजना",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.496880, 77.052664"
+  },
+  {
+    "ref": 753,
+    "place": "भमौरी कुटि",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.482463119578494, 77.01802790158386"
+  },
+  {
+    "ref": 754,
+    "place": "हंडिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.481670044276655, 76.98584139326555"
+  },
+  {
+    "ref": 755,
+    "place": "मांगरोल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.454861441110456, 76.92507326621353"
+  },
+  {
+    "ref": 756,
+    "place": "रातातलाई",
+    "accmodation": "माँ नरमदा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.415194235706018, 76.91949427126022"
+  },
+  {
+    "ref": 757,
+    "place": "खरदना",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.39375731678792, 76.89544353572458"
+  },
+  {
+    "ref": 758,
+    "place": "बिछौला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.37996025874203, 76.88069880014967"
+  },
+  {
+    "ref": 769,
+    "place": "सोंतालाई",
+    "accmodation": "माँ नरमदा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.347019531276462, 76.89571917051538"
+  },
+  {
+    "ref": 759,
+    "place": "पांचातलाई",
+    "accmodation": "नर्मदा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.325537547933667, 76.90132867457103"
+  },
+  {
+    "ref": 760,
+    "place": "बाबर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.307096408376175, 76.90244447355009"
+  },
+  {
+    "ref": 761,
+    "place": "देवपूर",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.283399276470714, 76.89138363861815"
+  },
+  {
+    "ref": 762,
+    "place": "नागावा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.26314550059414, 76.86760853776914"
+  },
+  {
+    "ref": 763,
+    "place": "पाहनपाट",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.234705841650626, 76.86142872820378"
+  },
+  {
+    "ref": 764,
+    "place": "चौकडी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.203161259480957, 76.8579096699988"
+  },
+  {
+    "ref": 765,
+    "place": "खिडकिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.169225041258752, 76.86181496629914"
+  },
+  {
+    "ref": 766,
+    "place": "पोखरणी",
+    "accmodation": "नर्मदे हर कुटिया",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.13960248169988, 76.84216978872277"
+  },
+  {
+    "ref": 767,
+    "place": "दगडखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.080877838155374, 76.83268549771127"
+  },
+  {
+    "ref": 768,
+    "place": "धारुखेडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.014193851257094, 76.80577164915185"
+  },
+  {
+    "ref": 771,
+    "place": "सडीयापाणी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.966840094323263, 76.72835236817791"
+  },
+  {
+    "ref": 772,
+    "place": "छनेरा (नवीन हरसूद)",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.96246362342639, 76.70540436806273"
+  },
+  {
+    "ref": 774,
+    "place": "चारखेड़ा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.94128794719264, 76.64635285433145"
+  },
+  {
+    "ref": 775,
+    "place": "तंवानदी रेल्वेपूल",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.941447174788724, 76.61871537267335"
+  },
+  {
+    "ref": 777,
+    "place": "सेलदा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.95012479718531, 76.60841569012214"
+  },
+  {
+    "ref": 778,
+    "place": "मांडला",
+    "accmodation": "नर्मदा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.9656019,76.5774524"
+  },
+  {
+    "ref": 779,
+    "place": "सहजला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.972575, 76.534474"
+  },
+  {
+    "ref": 780,
+    "place": "देवला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "21.995044, 76.512690"
+  },
+  {
+    "ref": 781,
+    "place": "माथणी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.011029, 76.509503"
+  },
+  {
+    "ref": 782,
+    "place": "पळसूद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.025072, 76.500861"
+  },
+  {
+    "ref": 783,
+    "place": "मूंदी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.068573731296347, 76.48644137825094"
+  },
+  {
+    "ref": 784,
+    "place": "केणूद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.07740264948483, 76.46429706076589"
+  },
+  {
+    "ref": 785,
+    "place": "भमौरी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.084242693411266, 76.42704654193135"
+  },
+  {
+    "ref": 786,
+    "place": "जलवा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.101182305711244, 76.39597583272591"
+  },
+  {
+    "ref": 787,
+    "place": "देवला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.124719422965065, 76.35254550439639"
+  },
+  {
+    "ref": 788,
+    "place": "खुटला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.140143644880173, 76.33417773695246"
+  },
+  {
+    "ref": 789,
+    "place": "डुडगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.132511251326925, 76.30988765219166"
+  },
+  {
+    "ref": 790,
+    "place": "बखरगाव",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.134966, 76.223660"
+  },
+  {
+    "ref": 791,
+    "place": "करौला",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.142364, 76.191869"
+  },
+  {
+    "ref": 792,
+    "place": "हातियाबाबा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.141907, 76.183456"
+  },
+  {
+    "ref": 793,
+    "place": "गुंजली",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.169662, 76.159049"
+  },
+  {
+    "ref": 794,
+    "place": "खंगवाडा",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.179463, 76.146176"
+  },
+  {
+    "ref": 795,
+    "place": "अंजरुद",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.200872, 76.133684"
+  },
+  {
+    "ref": 796,
+    "place": "धावडिया",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.214922, 76.128876"
+  },
+  {
+    "ref": 797,
+    "place": "शिवकोठी",
+    "accmodation": "",
+    "food": "",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "22.224694, 76.116096"
+  },
+  {
+    "ref": 798,
+    "place": "ओम्रकारेश्वर",
+    "accmodation": "मार्कण्डेश्वर आश्रम, अन्नपूर्णा आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "ओंकारेश्वर ज्योतिर्लिंग , ममलेश्वर ज्योतिर्लिंग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632242256/parikrama/1.jpg",
+    "location": "22.2468275,76.1387542"
+  }
+]
