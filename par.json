@@ -3852,6 +3852,15 @@
     "location": "23.145581279628193, 79.52077567571725"
   },
   {
+    "ref": 799,
+    "place": "जंगल वाली माता जी",
+    "accmodation": "TRUE",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "",
+    "location": "23.1154275,79.5827143"
+  },
+  {
     "ref": 460,
     "place": "बेलपठार",
     "accmodation": "",
@@ -3935,8 +3944,8 @@
   {
     "ref": 471,
     "place": "गौबच्चा घाट",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "TRUE",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632553455/parikrama/471.png",
     "location": "23.137996420516643, 79.78362998744306"
@@ -4088,11 +4097,11 @@
   {
     "ref": 488,
     "place": "धनपूरी",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "accmodation": "TRUE",
+    "food": "TRUE",
+    "visheshsthan": "धनपुरी नर्मदा आश्रम",
     "photo": "",
-    "location": "23.09478982221157, 80.15403375877939"
+    "location": "23.092768,80.1495141"
   },
   {
     "ref": 489,
