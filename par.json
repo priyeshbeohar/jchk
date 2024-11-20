@@ -3952,12 +3952,12 @@
   {
     "id": 396,
     "ref": 428,
-    "place": "शूकलपूर",
-    "accmodation": "",
+    "place": "शोकलपुर",
+    "accmodation": "शुक्लेश्वर तीर्थ - गुरु पदम",
     "food": "",
     "visheshsthan": "",
-    "photo": "",
-    "location": "23.04067017546766, 78.68092472189997"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732103357/428.png",
+    "location": "23.040639, 78.680889"
   },
   {
     "id": 397,
@@ -4286,8 +4286,8 @@
     "accmodation": "TRUE",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "23.1154275,79.5827143"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732097471/799.png",
+    "location": "23.1148056,79.5823611"
   },
   {
     "id": 430,
@@ -4552,12 +4552,12 @@
   {
     "id": 456,
     "ref": 488,
-    "place": "धनपूरी",
+    "place": "धनपुरी",
     "accmodation": "TRUE",
     "food": "TRUE",
     "visheshsthan": "धनपुरी नर्मदा आश्रम",
-    "photo": "",
-    "location": "23.092768,80.1495141"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732096645/488.png",
+    "location": "23.091646, 80.149634"
   },
   {
     "id": 457,
