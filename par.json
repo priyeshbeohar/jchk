@@ -2033,11 +2033,11 @@
     "id": 204,
     "ref": 222,
     "place": "मोरिया",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "हनुमान मंदिर आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.982842670659377, 73.54362283228294"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732297201/parikrama/222.png",
+    "location": "21.987523, 73.530984"
   },
   {
     "id": 205,
@@ -2053,11 +2053,11 @@
     "id": 206,
     "ref": 224,
     "place": "तिलकवाडा",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
-    "location": "21.951876525071626, 73.58965623137196"
+    "accmodation": "वासुदेव कुटीर आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "उत्तर वाहिनी परिक्रमा प्रारंभ स्थल",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732295501/parikrama/224.png",
+    "location": "21.949643, 73.589912"
   },
   {
     "id": 207,
@@ -2113,11 +2113,11 @@
     "id": 212,
     "ref": 230,
     "place": "गरुडेश्वर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "जय अम्बे परिक्रमावासी आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.89695022460487, 73.65476286494922"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732294967/parikrama/230.png",
+    "location": "21.888442, 73.655237"
   },
   {
     "id": 213,
