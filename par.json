@@ -1333,11 +1333,11 @@
     "id": 134,
     "ref": 148,
     "place": "अंकलेश्वर",
-    "accmodation": "",
+    "accmodation": "क्षिप्रा गणेश मंदिर",
     "food": "",
-    "visheshsthan": "",
-    "photo": "",
-    "location": "21.635854715967486, 72.98617208459137"
+    "visheshsthan": "राम कुंड",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732347807/parikrama/148.png",
+    "location": "21.632715, 72.980542"
   },
   {
     "id": 135,
@@ -1602,11 +1602,11 @@
   {
     "id": 161,
     "ref": 176,
-    "place": "भारभूत",
-    "accmodation": "",
+    "place": "भादभूत",
+    "accmodation": "केवट आश्रम",
     "food": "",
     "visheshsthan": "भरेश्वर महादेव मंदिर में 18 वर्ष में एक बार अधिक मास में मेला लगता है। स्वयंभू शिवलिंग।",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633677929/parikrama/176.png",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732342475/parikrama/176.png",
     "location": "21.681773208929123, 72.84431508013645"
   },
   {
@@ -1725,9 +1725,9 @@
     "place": "अंगारेश्वर",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "परमहंस कुटीर स्वामी मनिषानंदजी आश्रम",
     "photo": "",
-    "location": "21.793412434107662, 73.13314518716044"
+    "location": "21.790135, 73.133125"
   },
   {
     "id": 174,
@@ -1903,11 +1903,11 @@
     "id": 191,
     "ref": 208,
     "place": "अंबाली",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "जय अंबिकेश्वरनाथ महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.933143851220088, 73.37633364676937"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732336621/parikrama/208.png",
+    "location": "21.9313343,73.3776709"
   },
   {
     "id": 192,
