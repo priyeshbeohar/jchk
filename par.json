@@ -3473,11 +3473,11 @@
     "id": 348,
     "ref": 369,
     "place": "करौदा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "नर्मदा मंदिर करुणाधाम आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
-    "location": "22.524433367261725, 77.09018722065825"
+    "location": "22.5261327,77.0731443"
   },
   {
     "id": 349,
@@ -3493,9 +3493,9 @@
     "id": 350,
     "ref": 371,
     "place": "पिंपलनेरीया",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "accmodation": "श्री पंचमुखी हनुमान मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "नरमदा ककडी संगम",
     "photo": "",
     "location": "22.5463911,77.1110158"
   },
@@ -3503,20 +3503,20 @@
     "id": 351,
     "ref": 372,
     "place": "छीपानेर",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
-    "location": "22.5812243708055, 77.14703763698712"
+    "accmodation": "दादा जी धुनिवाले आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "जगतगुरू निम्बार्काचार्य महाराज आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1733813954/parikrama/351.png",
+    "location": "22.5726185,77.1410781"
   },
   {
     "id": 352,
     "ref": 373,
     "place": "सातदेव",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "accmodation": "महादेव पटलेश्वर मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "सिप  नदी संगम,  मान्यता है कि शिवलिंग के आसपास एक दरार है जो पाताल लोक तक जाती है, जिसमे हम जब कोई सिक्का डालते है तो काफी समय तक हमें आवाज सुनाई देती है, मंदिर के संरक्षण के लिए अभी इसे बंद कर दिया गया है पीतल की जलाधारी लगा करके।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1733814500/parikrama/352.png",
     "location": "22.587532770194233, 77.20717065531487"
   },
   {
@@ -5913,11 +5913,11 @@
     "id": 592,
     "ref": 641,
     "place": "तिलवारा घाट",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "मार्कंडेय आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "23.10337309785668, 79.87915642502078"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732552582/parikrama/641.png",
+    "location": "23.1059056,79.8770563"
   },
   {
     "id": 593,
