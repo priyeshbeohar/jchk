@@ -1143,11 +1143,11 @@
     "id": 115,
     "ref": 125,
     "place": "वेळुगाम",
-    "accmodation": "",
+    "accmodation": "जय गिरनारी सदावरत",
     "food": "",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.86279584099939, 73.25316637546445"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735649012/parikrama/125.png",
+    "location": "21.8598909,73.2510619"
   },
   {
     "id": 116,
@@ -3093,8 +3093,8 @@
     "id": 310,
     "ref": 327,
     "place": "कोटेश्वर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "कोटेश्वर महादेव",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
     "location": "22.248835604938833, 76.09315502922549"
@@ -3103,8 +3103,8 @@
     "id": 311,
     "ref": 328,
     "place": "कोठावा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "कश्यप मुनि आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
     "location": "22.259956824743064, 76.12525570668794"
@@ -3232,32 +3232,32 @@
   {
     "id": 324,
     "ref": 343,
-    "place": "प्रेमगढ",
-    "accmodation": "",
+    "place": "बावडी खेड़ा",
+    "accmodation": "हनुमान मंदिर",
     "food": "",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.35153119372907, 76.41620376404786"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735832068/parikrama/343.png",
+    "location": "22.3810679,76.38977"
   },
   {
     "id": 325,
     "ref": 344,
     "place": "भटखेडा",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "accmodation": "जयंती माता मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "लक्कड़कोट का जंगल",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735830556/parikrama/344.png",
     "location": "22.34637189507087, 76.45100780252858"
   },
   {
     "id": 326,
     "ref": 345,
     "place": "पामाखेडी",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "माँ नर्मदा सेवा कुटिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.33606457037596, 76.60742332592673"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735828581/parikrama/345.png",
+    "location": "22.3442071,76.5860101"
   },
   {
     "id": 327,
