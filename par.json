@@ -1203,11 +1203,11 @@
     "id": 121,
     "ref": 131,
     "place": "अविधा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "रामेश्वर महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.768390173657068, 73.18827035203954"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735881418/parikrama/131.png",
+    "location": "21.7676429,73.1889251"
   },
   {
     "id": 122,
@@ -1253,11 +1253,11 @@
     "id": 126,
     "ref": 137,
     "place": "उचडिया",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "सरपेश्वर महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.710959583307925, 73.12009885873232"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735882577/parikrama/137.png",
+    "location": "21.7131003,73.1234566"
   },
   {
     "id": 127,
@@ -1354,7 +1354,7 @@
     "ref": 148,
     "place": "अंकलेश्वर",
     "accmodation": "क्षिप्रा गणेश मंदिर",
-    "food": "",
+    "food": "TRUE",
     "visheshsthan": "राम कुंड",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732347807/parikrama/148.png",
     "location": "21.632715, 72.980542"
@@ -1693,11 +1693,11 @@
     "id": 170,
     "ref": 184,
     "place": "तवरा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "खत्री दाता मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
-    "location": "21.74394037639677, 73.06125445011612"
+    "location": "21.7433041,73.0615091"
   },
   {
     "id": 171,
@@ -1713,11 +1713,11 @@
     "id": 172,
     "ref": 186,
     "place": "शुकलतीर्थ",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "रामजी मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.749970017905014, 73.12149044404117"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735885621/parikrama/186.png",
+    "location": "21.7509283,73.1248101"
   },
   {
     "id": 173,
@@ -1826,8 +1826,8 @@
     "accmodation": "श्री गिरनारी आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.87253614260206, 73.22928236363722"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735886019/parikrama/198.png",
+    "location": "21.8744034,73.2197201"
   },
   {
     "id": 184,
