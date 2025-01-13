@@ -4614,10 +4614,10 @@
     "ref": 487,
     "place": "रींछाई",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "food": "FALSE",
+    "visheshsthan": "रिछाई से डोंगरीया जाने के लिए 2 मार्ग हैं , मण्डला होते हुए तटीय मार्ग (कठिन मार्ग ) दूसरा सड़क मार्ग जो की 110 km का है ।",
     "photo": "",
-    "location": "23.08823664855902, 80.06991968409443"
+    "location": "23.087438,80.073629"
   },
   {
     "id": 463,
@@ -4883,21 +4883,21 @@
     "id": 489,
     "ref": 520,
     "place": "देवरा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "भवतारिणी माँ नरमदा मंदिर आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.953031248445427, 81.07674465124347"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1736744804/parikrama/520.png",
+    "location": "22.9473895,81.0789343"
   },
   {
     "id": 490,
     "ref": 522,
     "place": "भेसला",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "रोरा नदी पुल",
+    "food": "FALSE",
     "visheshsthan": "",
     "photo": "",
-    "location": "22.949790773439137, 81.11159191054166"
+    "location": "22.95099,81.1020577"
   },
   {
     "id": 491,
@@ -4906,7 +4906,7 @@
     "accmodation": "राम घाट उत्तर तट, संत सेवा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1736752462/parikrama/523.png",
     "location": "22.942105, 81.136679"
   },
   {
