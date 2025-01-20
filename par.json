@@ -2333,11 +2333,11 @@
     "id": 234,
     "ref": 265,
     "place": "निसरपूर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "श्री हनुमान मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.110195938447053, 74.80743659604697"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1737384739/parikrama/265.png",
+    "location": "22.1169176,74.8327363"
   },
   {
     "id": 235,
