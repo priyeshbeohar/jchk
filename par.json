@@ -6,7 +6,7 @@
     "accmodation": "मार्कण्डेश्वर आश्रम, अन्नपूर्णा आश्रम",
     "food": "TRUE",
     "visheshsthan": "ओंकारेश्वर ज्योतिर्लिंग , ममलेश्वर ज्योतिर्लिंग , नर्मदा आरती",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1632242256/parikrama/1.jpg",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1738660170/parikrama/1.png",
     "location": "22.243417792704342, 76.15379386877805"
   },
   {
@@ -115,7 +115,7 @@
     "place": "तेलियाभट्याण",
     "accmodation": "महान संत श्री सियाराम बाबाजी आश्रम",
     "food": "TRUE",
-    "visheshsthan": "इस स्थान पर, संत सियाराम रहते हैं जो 105 वर्ष के हैं और एक दिव्य संत के रूप में जाने जाते हैं। माना जाता है कि उनके पास चमत्कारी शक्तियां हैं। आस-पास के गांव के लोग कुछ शुरू करने से पहले उनका आशीर्वाद लेने आते हैं। आप यहां अद्भुत सूर्यास्त की एक झलक देख सकते हैं। हनुमान मंदिर, बिल्केश्वर मंदिर",
+    "visheshsthan": "सियाराम बाबा समाधी स्थल। आप यहां अद्भुत सूर्यास्त की एक झलक देख सकते हैं। हनुमान मंदिर, बिल्केश्वर मंदिर",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633363779/parikrama/14.png",
     "location": "22.160313061221746, 75.7622473183464"
   },
@@ -2136,7 +2136,7 @@
     "accmodation": "हनुमान दादा मंदिर",
     "food": "",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1738660755/parikrama/247.png",
     "location": "22.015294, 74.223668"
   },
   {
@@ -2453,10 +2453,10 @@
     "id": 246,
     "ref": 274,
     "place": "अचोदा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "माँ रेवा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1738666306/parikrama/274.png",
     "location": "22.097771701903817, 75.03854409865573"
   },
   {
@@ -4467,7 +4467,7 @@
     "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
-    "location": "23.107403,79.9347003"
+    "location": "23.10759227329193,79.93514659889095"
   },
   {
     "id": 448,
@@ -4994,7 +4994,7 @@
     "ref": 553,
     "place": "दूधधारा",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "photo": "",
     "location": "22.7028947173698, 81.70291344693096"
@@ -5004,9 +5004,9 @@
     "ref": 554,
     "place": "कपिलधारा",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "सघन वन कननों के बीच श्री नर्मदा मंदिर से पश्चिम दिशा एवं कपिल धारा से 1 किमी की दूरी पर नीचे यह जल प्रपात स्थित है। महर्षि दुर्वासा ऋषि ने इस स्थान पर तप किया था। मान्यता है कि माँ नर्मदा ने उन्हें कामधेनु के रूप में दर्शन दिये थे एवं प्रपात के दुग्ध समान दश्यावली के कारण दुग्ध धारा के नाम से जाना जाता है। सिद्ध कपिल मुनि तपस्थली।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1738145856/parikrama/554.png",
     "location": "22.70226127265777, 81.70701186231327"
   },
   {
