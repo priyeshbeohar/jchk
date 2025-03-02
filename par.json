@@ -2685,8 +2685,8 @@
     "place": "रेवा कुंड",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "visheshsthan": "बाज़ बहादुर का महल",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740068419/parikrama/297.png",
     "location": "22.313615760022667, 75.40737472553836"
   },
   {
@@ -3075,8 +3075,8 @@
     "place": "सीतावन-वाल्मीक आश्रम",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "visheshsthan": "श्री वाल्मिकी आश्रम सीतावन रेवा कुंड म",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740070849/parikrama/335.png",
     "location": "22.390470746455147, 76.2861368619841"
   },
   {
@@ -3286,17 +3286,17 @@
     "accmodation": "संत परिक्रमा वासी सेवा",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740931597/parikrama/358.png",
     "location": "22.484145223026594, 76.87301808146535"
   },
   {
     "id": 330,
     "ref": 359,
     "place": "बागदी संगम",
-    "accmodation": "",
+    "accmodation": "बागडी संगम आश्रम - भैरव टेकरी",
     "food": "",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740931819/parikrama/359.png",
     "location": "22.484462447942793, 76.89353161599377"
   },
   {
@@ -3996,7 +3996,7 @@
     "accmodation": "मैया की कुटिया अन्नक्षेत्र",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740930454/parikrama/405.png",
     "location": "23.055473798432736, 78.87819752098453"
   },
   {
@@ -4073,10 +4073,10 @@
     "id": 408,
     "ref": 440,
     "place": "गुरसी",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "लाल बाबा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740930676/parikrama/440.png",
     "location": "23.057932196507004, 79.10362213599684"
   },
   {
@@ -4186,7 +4186,7 @@
     "accmodation": "",
     "food": "",
     "visheshsthan": "हिरन नदी संगम",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740931405/parikrama/451.png",
     "location": "23.110540085536755, 79.34132892498612"
   },
   {
@@ -4203,8 +4203,8 @@
     "id": 421,
     "ref": 453,
     "place": "पावला",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "मां अन्नपूर्णा शिव शक्ति आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
     "location": "23.11609127422128, 79.37610059456648"
@@ -4903,11 +4903,11 @@
     "id": 491,
     "ref": 543,
     "place": "ठांडपठार",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "शंकर पुरी बाबा ,आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.845082767596974, 81.42084088689762"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740929075/parikrama/543.png",
+    "location": "22.843114804819685, 81.41784849561145"
   },
   {
     "id": 492,
@@ -5456,8 +5456,8 @@
     "accmodation": "आदिवासी धर्मशाला",
     "food": "",
     "visheshsthan": "नर्मदा बंजर नदी संगम स्थल, महाराजपुर से नर्मदापुरम  जाने के दो रास्ते हैं पहला तटीय मार्ग दूसरा सड़क मार्ग जो की भिलाई से शुरू हो के, लखनादौन, करेली, गाडरवारा होते हुए जाता है ।",
-    "photo": "",
-    "location": "22.587328915663743, 80.35895569106266"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740925455/parikrama/607.png",
+    "location": "22.583987950985186, 80.36584135439475"
   },
   {
     "id": 547,
@@ -5533,10 +5533,10 @@
     "id": 554,
     "ref": 616,
     "place": "पाटण",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "मां नर्मदा सेवा सिद्ध आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740927410/parikrama/616.png",
     "location": "22.70040757709701, 80.18476230947206"
   },
   {
@@ -5643,11 +5643,11 @@
     "id": 565,
     "ref": 628,
     "place": "दुर्जनपूर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "राम, हनुमान मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.766161613150505, 79.92198783469819"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740927789/parikrama/628.png",
+    "location": "22.756723235329908, 79.9303232996382"
   },
   {
     "id": 566,
@@ -6193,10 +6193,10 @@
     "id": 620,
     "ref": 688,
     "place": "झकौली",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "गुरुकृपा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740924206/parikrama/688.png",
     "location": "23.00705399827189, 78.53412900532966"
   },
   {
@@ -6472,10 +6472,10 @@
   {
     "id": 648,
     "ref": 722,
-    "place": "सूर्यकुंड",
+    "place": "सूरजकुंड",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "सूरजकुंड के बारे में कहा जाता है कि यहां पौष माह के चार रविवार स्नान और पूजन करने से पुराने से पुराने चर्मरोग से मुक्ति मिल जाती है।",
     "photo": "",
     "location": "22.84949782287257, 77.86016664085292"
   },
@@ -6682,11 +6682,11 @@
   {
     "id": 669,
     "ref": 730,
-    "place": "खोकसर",
-    "accmodation": "",
-    "food": "",
+    "place": "खोखसर",
+    "accmodation": "श्री गौरी शंकर जी महाराज समाधि स्थल",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740921786/parikrama/730.png",
     "location": "22.677662594711723, 77.5887000067372"
   },
   {
