@@ -223,10 +223,10 @@
     "id": 23,
     "ref": 28,
     "place": "ग्यारहलिंगी",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "ग्यारह लिंगी आश्रम,बाबा नर्मदे हर आश्रम",
-    "photo": "",
+    "accmodation": "ग्यारह लिंगी आश्रम",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740932950/parikrama/28.png",
     "location": "22.135731102612507, 75.34503559057022"
   },
   {
@@ -283,7 +283,7 @@
     "id": 29,
     "ref": 35,
     "place": "नलवाय",
-    "accmodation": "लालबाबा आश्रम",
+    "accmodation": "",
     "food": "",
     "visheshsthan": "देब नदी संगम",
     "photo": "",
@@ -293,11 +293,11 @@
     "id": 30,
     "ref": 36,
     "place": "लोहारा",
-    "accmodation": "रामदुलारी माता आश्रम",
-    "food": "",
+    "accmodation": "कपिलेश्वर महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.097978411083442, 75.17208609772851"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740975249/parikrama/36.png",
+    "location": "22.10129366383485, 75.17542988613705"
   },
   {
     "id": 31,
@@ -336,7 +336,7 @@
     "accmodation": "",
     "food": "",
     "visheshsthan": "रम्या परिक्रमा वासि निवास",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740975250/parikrama/40.png",
     "location": "22.0909421,75.0934005"
   },
   {
@@ -926,8 +926,8 @@
     "accmodation": "मेहुल नर्मदा परिक्रमा सेवा ट्रस्ट",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.9592515,73.5099445"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740984011/parikrama/108.png",
+    "location": "21.960569774828812, 73.51446315559171"
   },
   {
     "id": 94,
@@ -1053,11 +1053,11 @@
     "id": 106,
     "ref": 121,
     "place": "असा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "दगड़ू महाराज राम धुन आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.877412261330235, 73.28428000006544"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740986639/parikrama/121.png",
+    "location": "21.88747950903645, 73.29805064474085"
   },
   {
     "id": 107,
@@ -1903,11 +1903,11 @@
     "id": 191,
     "ref": 218,
     "place": "यमहास",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "अशोक बाबा धाम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.98297318237043, 73.44631522894196"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740988146/parikrama/218.png",
+    "location": "21.9835630500603, 73.44506353721978"
   },
   {
     "id": 192,
@@ -3033,11 +3033,11 @@
     "id": 304,
     "ref": 331,
     "place": "बडेल",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "राधा कृष्णा नर्मदा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.37354622693613, 76.16953587182037"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740991459/parikrama/331.png",
+    "location": "22.387546408599892, 76.17196417013358"
   },
   {
     "id": 305,
@@ -3222,12 +3222,12 @@
   {
     "id": 323,
     "ref": 352,
-    "place": "कीटीघाट",
-    "accmodation": "",
-    "food": "",
+    "place": "नमनपुर",
+    "accmodation": "माँ नर्मदा सेवा ट्रस्ट",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.368595756431194, 76.76559466074127"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741005845/parikrama/352.png",
+    "location": "22.420788656160052, 76.7538834595403"
   },
   {
     "id": 324,
@@ -3294,7 +3294,7 @@
     "ref": 359,
     "place": "बागदी संगम",
     "accmodation": "बागडी संगम आश्रम - भैरव टेकरी",
-    "food": "",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740931819/parikrama/359.png",
     "location": "22.484462447942793, 76.89353161599377"
@@ -3343,10 +3343,10 @@
     "id": 335,
     "ref": 364,
     "place": "कुंड",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "माँ नरमदा सेवा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741009325/parikrama/364.png",
     "location": "22.49902266010234, 77.0061435260107"
   },
   {
@@ -3373,10 +3373,10 @@
     "id": 338,
     "ref": 367,
     "place": "दैयत",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "दक्षिण मुखी हनुमान मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741009835/parikrama/367.png",
     "location": "22.501360029738624, 77.03911796108348"
   },
   {
@@ -3436,7 +3436,7 @@
     "accmodation": "महादेव पटलेश्वर मंदिर",
     "food": "TRUE",
     "visheshsthan": "सिप  नदी संगम,  मान्यता है कि शिवलिंग के आसपास एक दरार है जो पाताल लोक तक जाती है, जिसमे हम जब कोई सिक्का डालते है तो काफी समय तक हमें आवाज सुनाई देती है, मंदिर के संरक्षण के लिए अभी इसे बंद कर दिया गया है पीतल की जलाधारी लगा करके।",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1733814500/parikrama/352.png",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1733814500/parikrama/373.png",
     "location": "22.587532770194233, 77.20717065531487"
   },
   {
@@ -3616,7 +3616,7 @@
     "accmodation": "मौनी बाबा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741010129/parikrama/392.png",
     "location": "22.74234393286385, 77.61675196840896"
   },
   {
