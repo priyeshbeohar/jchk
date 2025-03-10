@@ -214,7 +214,7 @@
     "ref": 27,
     "place": "कठोरा",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.13748183295198, 75.35471830739552"
@@ -466,8 +466,8 @@
     "accmodation": "मां नर्मदा परिक्रमावासी",
     "food": "TRUE",
     "visheshsthan": "शूलपाणि झाड़ी मार्ग प्रारंभ",
-    "photo": "",
-    "location": "22.0466088,74.7343536"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741531922/parikrama/56.png",
+    "location": "22.04665007306664, 74.75596159791534"
   },
   {
     "id": 48,
@@ -483,10 +483,10 @@
     "id": 49,
     "ref": 58,
     "place": "मोरकट्टा",
-    "accmodation": "माँ नरमदा आश्रम",
-    "food": "TRUE",
-    "visheshsthan": "",
-    "photo": "",
+    "accmodation": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.03510563278139, 74.68869546464971"
   },
   {
@@ -713,8 +713,8 @@
     "id": 72,
     "ref": 82,
     "place": "बिजलीगव्हाण",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "माँ नर्मदा ज्ञान पीठ",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
     "location": "21.787209476401088, 73.98342312768368"
@@ -724,9 +724,9 @@
     "ref": 83,
     "place": "सुरगस",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "21.789839542259543, 73.95235241832802"
   },
   {
@@ -763,11 +763,11 @@
     "id": 77,
     "ref": 88,
     "place": "वडफळी",
-    "accmodation": "",
+    "accmodation": "चैतन्य आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.742127836878712, 73.84992729633511"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741591080/parikrama/88.png",
+    "location": "21.742536179823954, 73.84327689632781"
   },
   {
     "id": 78,
@@ -1114,9 +1114,9 @@
     "ref": 128,
     "place": "कृष्णपुरी",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "21.81110845000556, 73.21539284952566"
   },
   {
@@ -1223,10 +1223,10 @@
     "id": 123,
     "ref": 142,
     "place": "नौगवा नवागाम",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "श्री रोकड़िया हनुमान मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741593208/parikrama/142.png",
     "location": "21.674359532059217, 73.0544228416784"
   },
   {
@@ -1234,9 +1234,9 @@
     "ref": 144,
     "place": "सामोर",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "21.667770499632493, 73.03302576412007"
   },
   {
@@ -1324,9 +1324,9 @@
     "ref": 153,
     "place": "मोठिया",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "21.606893372774707, 72.85745688505627"
   },
   {
@@ -1383,11 +1383,11 @@
     "id": 139,
     "ref": 159,
     "place": "कोटेश्वर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "श्री कोटेश्वर महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.531956733149162, 72.74009387684787"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741595344/parikrama/159.png",
+    "location": "21.534646180743884, 72.74184975108166"
   },
   {
     "id": 140,
@@ -1743,11 +1743,11 @@
     "id": 175,
     "ref": 199,
     "place": "कहोणा",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "हंसमुखा हनुमान मंदिर",
-    "photo": "",
-    "location": "21.8980605103101, 73.21754198453745"
+    "accmodation": "तपोवन धाम संकट मोचन हनुमान मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741597034/parikrama/199.png",
+    "location": "21.90480962571721, 73.21655403866355"
   },
   {
     "id": 176,
@@ -1784,9 +1784,9 @@
     "ref": 203,
     "place": "दिवेर",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "21.93304426861845, 73.26688895997127"
   },
   {
@@ -1803,11 +1803,11 @@
     "id": 181,
     "ref": 205,
     "place": "मालसर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "सद्गुरु धाम कन्केश्वरी आश्रम",
+    "food": "TRUE",
     "visheshsthan": "अंगरेश्वर महादेव का एक प्राचीन मंदिर है और नर्मदा नदी के पास सत्यनारायण भगवान का मंदिर भी है। भाद्रपद माहिना में हिंदू पंचांग के अनुसार पार्श्व एकादशी पर वे सत्यनारायण भगवान की पालकी को नर्मदा नदी में 30 से 45 मिनट तक लेते हैं और फिर वापस आकर पूरे गांव में पालकी लेते हैं।",
-    "photo": "",
-    "location": "21.89175467135599, 73.30952454880524"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741597620/parikrama/205.png",
+    "location": "21.8887513500751, 73.31393826643186"
   },
   {
     "id": 182,
@@ -1873,10 +1873,10 @@
     "id": 188,
     "ref": 215,
     "place": "बद्रीकाश्रम",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "नर्मदा परिक्रमावासी अन्नक्षेत्र",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741599589/parikrama/215.png",
     "location": "21.965825237055125, 73.43625587048103"
   },
   {
@@ -1994,9 +1994,9 @@
     "ref": 227,
     "place": "रेगण",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "21.907171740862488, 73.60358863149165"
   },
   {
@@ -2063,11 +2063,11 @@
     "id": 207,
     "ref": 236,
     "place": "उडवा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "श्री रामेश्वर हनुमान मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.932648343643052, 73.74563589889321"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741600738/parikrama/236.png",
+    "location": "21.93254864862229, 73.74506095638952"
   },
   {
     "id": 208,
@@ -2112,12 +2112,12 @@
   {
     "id": 212,
     "ref": 245,
-    "place": "छोटा उदयपुर",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
-    "location": "22.05268964631156, 74.14257645607906"
+    "place": "बखतगढ़",
+    "accmodation": "अम्बे माताजी मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "मध्य प्रदेश सीमा प्रारंभ",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741603577/parikrama/245.png",
+    "location": "22.053997367625858, 74.15282533897617"
   },
   {
     "id": 213,
@@ -4096,7 +4096,7 @@
     "accmodation": "चितलेस सेवा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741269705/parikrama/442.png",
     "location": "23.078776698853087, 79.13398973250293"
   },
   {
@@ -4694,9 +4694,9 @@
     "ref": 507,
     "place": "अमठेरा",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "23.11971756375781, 80.77334036702203"
   },
   {
@@ -4956,7 +4956,7 @@
     "accmodation": "नीलकंठ आश्रम मिरिया ब्रम्हकुण्ड तीर्थ",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741269118/parikrama/549.png",
     "location": "22.784051796602142, 81.68042331937832"
   },
   {
@@ -5166,8 +5166,8 @@
     "accmodation": "नर्मदा सेवा, धर्मशाला",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.838185, 81.251080"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741268733/parikrama/827.png",
+    "location": "22.83815621960641, 81.2510366405657"
   },
   {
     "id": 518,
@@ -5403,11 +5403,11 @@
     "id": 541,
     "ref": 602,
     "place": "रामनगर",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "परिक्रमावासी सेवा रामनगर सदाव्रत",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.613162207943102, 80.5157187285411"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741267261/parikrama/602.png",
+    "location": "22.614854991462202, 80.51462855035336"
   },
   {
     "id": 542,
@@ -5496,8 +5496,8 @@
     "accmodation": "रैन बसेरा",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.7111601,80.2571071"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741260836/parikrama/612.png",
+    "location": "22.711082033290612, 80.25958222381274"
   },
   {
     "id": 551,
@@ -5573,11 +5573,11 @@
     "id": 558,
     "ref": 621,
     "place": "कडुउठार",
-    "accmodation": "",
+    "accmodation": "आश्रम धर्मशाला",
     "food": "",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.718055023676676, 80.03765496781911"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741260554/parikrama/621.png",
+    "location": "22.719889751065832, 80.04947821040231"
   },
   {
     "id": 559,
@@ -5604,9 +5604,9 @@
     "ref": 624,
     "place": "साल्हेपाणी",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.72996091335604, 79.97913727311231"
   },
   {
@@ -5704,7 +5704,7 @@
     "ref": 634,
     "place": "तुनीया",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.90448024829591, 79.90281578562718"
@@ -6343,11 +6343,11 @@
     "id": 635,
     "ref": 704,
     "place": "रेवा वनखेडी",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "श्री रामजानकी मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.84782692564689, 78.15099464400923"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741589875/parikrama/704.png",
+    "location": "22.85003391463717, 78.15039105705928"
   },
   {
     "id": 636,
@@ -6402,12 +6402,12 @@
   {
     "id": 641,
     "ref": 709,
-    "place": "मारा",
-    "accmodation": "",
-    "food": "",
+    "place": "मारागाँव",
+    "accmodation": "जनार्धन स्वामी आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.793107942233743, 78.01722881375926"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741236262/parikrama/709.png",
+    "location": "22.798144984889657, 78.02706070151824"
   },
   {
     "id": 642,
@@ -6505,8 +6505,8 @@
     "place": "बांद्राभान",
     "accmodation": "रेल ब्रिज (तवा) रास्ता",
     "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "visheshsthan": "नर्मदा और तवा नदी का संगम स्थल",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741580651/parikrama/725.png",
     "location": "22.791542396732403, 77.78426163426165"
   },
   {
@@ -6713,11 +6713,11 @@
     "id": 672,
     "ref": 734,
     "place": "आवली घाट",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "धूनी वाले बाबा मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.640691, 77.489742"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741588788/parikrama/734.png",
+    "location": "22.64150045573045, 77.48860413361002"
   },
   {
     "id": 673,
@@ -6733,11 +6733,11 @@
     "id": 674,
     "ref": 736,
     "place": "घोघरा",
-    "accmodation": "नर्मदा कुटि",
+    "accmodation": "अशोक मुनि आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.61965174682131, 77.44164504822491"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741587636/parikrama/736.png",
+    "location": "22.619304966569285, 77.44134839683116"
   },
   {
     "id": 675,
@@ -6814,9 +6814,9 @@
     "ref": 743,
     "place": "अचनागांव",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.557292623071184, 77.2495096835194"
   },
   {
@@ -6936,7 +6936,7 @@
     "accmodation": "माँ नरमदा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741583433/parikrama/756.png",
     "location": "22.415194235706018, 76.91949427126022"
   },
   {
@@ -6983,10 +6983,10 @@
     "id": 699,
     "ref": 759,
     "place": "पांचातलाई",
-    "accmodation": "नर्मदा आश्रम",
+    "accmodation": "बिमला मां नर्मदा परिक्रमा सेवाश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741581309/parikrama/759.png",
     "location": "22.325537547933667, 76.90132867457103"
   },
   {
@@ -7014,10 +7014,10 @@
     "ref": 762,
     "place": "नागावा",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
-    "location": "22.26314550059414, 76.86760853776914"
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
+    "location": "22.26131740209321, 76.86511290737533"
   },
   {
     "id": 703,
@@ -7194,9 +7194,9 @@
     "ref": 781,
     "place": "माथणी",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.011029, 76.509503"
   },
   {
@@ -7253,11 +7253,11 @@
     "id": 726,
     "ref": 787,
     "place": "देवला",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "अहिल्या आश्रम और परिक्रमावासी सेवा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.124719422965065, 76.35254550439639"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741583079/parikrama/787.png",
+    "location": "22.12512851892946,76.35191318673786"
   },
   {
     "id": 727,
@@ -7323,10 +7323,10 @@
     "id": 733,
     "ref": 795,
     "place": "अंजरुद",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "बाघेश्वरी माताजी मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741581081/parikrama/795.png",
     "location": "22.200872, 76.133684"
   },
   {
