@@ -921,16 +921,6 @@
   },
   {
     "id": 93,
-    "ref": 108,
-    "place": "कुंभेश्वर जीओर",
-    "accmodation": "मेहुल नर्मदा परिक्रमा सेवा ट्रस्ट",
-    "food": "TRUE",
-    "visheshsthan": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740984011/parikrama/108.png",
-    "location": "21.960569774828812, 73.51446315559171"
-  },
-  {
-    "id": 94,
     "ref": 109,
     "place": "वैधनाथ महादेव",
     "accmodation": "",
@@ -938,6 +928,16 @@
     "visheshsthan": "",
     "photo": "",
     "location": "21.973521510141214, 73.5354611276989"
+  },
+  {
+    "id": 94,
+    "ref": 108,
+    "place": "कुंभेश्वर जीओर",
+    "accmodation": "मेहुल नर्मदा परिक्रमा सेवा ट्रस्ट",
+    "food": "TRUE",
+    "visheshsthan": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740984011/parikrama/108.png",
+    "location": "21.960569774828812, 73.51446315559171"
   },
   {
     "id": 95,
@@ -1752,12 +1752,12 @@
   {
     "id": 176,
     "ref": 200,
-    "place": "फतेहपुर",
-    "accmodation": "",
-    "food": "",
+    "place": "देरोली",
+    "accmodation": "बकुल आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "21.91101023506076, 73.21593761444306"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742892768/parikrama/200.png",
+    "location": "21.91954436552544, 73.22151789919384"
   },
   {
     "id": 177,
@@ -1883,20 +1883,20 @@
     "id": 189,
     "ref": 216,
     "place": "नंदेरिया",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "श्री नंदिकेश्वर महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742893615/parikrama/216.png",
     "location": "21.975650678565195, 73.43775361775961"
   },
   {
     "id": 190,
     "ref": 217,
-    "place": "गंगनाथ",
-    "accmodation": "",
-    "food": "",
+    "place": "भीमपुरा",
+    "accmodation": "श्री गंगनाथ महादेव मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742894362/parikrama/217.png",
     "location": "21.97809818788191, 73.44052165746393"
   },
   {
@@ -2983,8 +2983,8 @@
     "id": 299,
     "ref": 326,
     "place": "डोलारी",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "डोलारी आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
     "location": "22.2476780780255, 76.09084057704844"
@@ -2993,9 +2993,9 @@
     "id": 300,
     "ref": 327,
     "place": "कोटेश्वर",
-    "accmodation": "कोटेश्वर महादेव",
+    "accmodation": "श्री रामानन्द आश्रम कोटेश्वर",
     "food": "TRUE",
-    "visheshsthan": "",
+    "visheshsthan": "कोटेश्वर महादेव",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741610975/parikrama/327.png",
     "location": "22.248835604938833, 76.09315502922549"
   },
@@ -3157,7 +3157,7 @@
     "food": "TRUE",
     "visheshsthan": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735828581/parikrama/345.png",
-    "location": "22.3442071,76.5860101"
+    "location": "22.345586483905898, 76.58692211751028"
   },
   {
     "id": 317,
@@ -3165,7 +3165,7 @@
     "place": "डांग",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "जल भराव के कारण कम लोग गुजरते हैं",
     "photo": "",
     "location": "22.343130178894107, 76.62853767530795"
   },
@@ -3175,7 +3175,7 @@
     "place": "दंठा",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "जल भराव के कारण कम लोग गुजरते हैं",
     "photo": "",
     "location": "22.347682254532938, 76.63575953567451"
   },
@@ -3185,7 +3185,7 @@
     "place": "नंदाणा",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "जल भराव के कारण कम लोग गुजरते हैं",
     "photo": "",
     "location": "22.353000898040598, 76.6453725727223"
   },
@@ -3194,9 +3194,9 @@
     "ref": 349,
     "place": "भामर",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.37431900672968, 76.64693883672548"
   },
   {
@@ -3215,7 +3215,7 @@
     "place": "झांझर",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "जल भराव के कारण कम लोग गुजरते हैं",
     "photo": "",
     "location": "22.335487410983237, 76.67946494002834"
   },
@@ -3572,21 +3572,21 @@
   {
     "id": 358,
     "ref": 387,
-    "place": "तालपुरा",
-    "accmodation": "",
-    "food": "",
+    "place": "जहाजपुर",
+    "accmodation": "नर्मदा परिक्रमा भंडारा मोनू पटेल",
+    "food": "TRUE",
     "visheshsthan": "",
     "photo": "",
-    "location": "22.680525276745893, 77.55948450777906"
+    "location": "22.679212985290068, 77.56051194807868"
   },
   {
     "id": 359,
     "ref": 388,
     "place": "साततुमडी",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
     "location": "22.68899870156545, 77.58102801047664"
   },
   {
@@ -3613,11 +3613,11 @@
     "id": 362,
     "ref": 392,
     "place": "होलीपुरा",
-    "accmodation": "मौनी बाबा आश्रम",
+    "accmodation": "मा नर्मदेश्वरी गुरुकुलं परिक्रमावासी",
     "food": "TRUE",
     "visheshsthan": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741010129/parikrama/392.png",
-    "location": "22.74234393286385, 77.61675196840896"
+    "location": "22.743531973566554,77.61564917252645"
   },
   {
     "id": 363,
@@ -3753,11 +3753,11 @@
     "id": 376,
     "ref": 408,
     "place": "हतनोरा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "हनुमान गढी आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.864400300898293, 77.87412687857449"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742631006/parikrama/408.png",
+    "location": "22.86447791543343, 77.87357942101518"
   },
   {
     "id": 377,
@@ -3863,11 +3863,11 @@
     "id": 387,
     "ref": 420,
     "place": "मांगरोल",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "नर्मदा मैया सेवा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "photo": "",
-    "location": "22.92487614853398, 78.327226800193"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742632039/parikrama/420.png",
+    "location": "22.924410549384174, 78.34041778760954"
   },
   {
     "id": 388,
@@ -4164,10 +4164,10 @@
     "ref": 448,
     "place": "कुरेला",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
-    "photo": "",
-    "location": "23.097575711002328, 79.29239071144214"
+    "food": "FALSE",
+    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
+    "location": "23.103250905579188,79.31109137649504"
   },
   {
     "id": 418,
@@ -6253,10 +6253,10 @@
     "id": 626,
     "ref": 691,
     "place": "दूधी संगम",
-    "accmodation": "",
+    "accmodation": "महादेव मंदिर, दूधी संगम, सिर्सिरी घाट",
     "food": "",
     "visheshsthan": "दूधी नदी संगम",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742885734/parikrama/491.png",
     "location": "22.986906618711203, 78.44907079327591"
   },
   {
@@ -6455,9 +6455,9 @@
     "place": "गणेरा",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "गनेरा से दो रास्ते हैं तटीय रास्ते (बिकोर से होके) से जाएंगे तो तवा नदी रेल्वे पुल से पार करना होएगी और सड़क मार्ग से जाएंगे तो बाबई पुल से तवा नदी पार करना है।",
     "photo": "",
-    "location": "22.788707350532274, 77.9513439586601"
+    "location": "22.78763536385272, 77.95263458867058"
   },
   {
     "id": 647,
