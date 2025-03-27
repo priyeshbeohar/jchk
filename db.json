@@ -1,34 +1,5 @@
 [
-  {
-    "id": 1,
-    "ref": 1,
-    "place": "ओंकारेश्वर",
-    "accmodation": "मार्कण्डेश्वर आश्रम, अन्नपूर्णा आश्रम",
-    "food": "TRUE",
-    "visheshsthan": "ओंकारेश्वर ज्योतिर्लिंग , ममलेश्वर ज्योतिर्लिंग , नर्मदा आरती",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1738660170/parikrama/1.png",
-    "location": "22.243417792704342, 76.15379386877805"
-  },
-  {
-    "id": 2,
-    "ref": 3,
-    "place": "खेडीघाट मोरटक्का",
-    "accmodation": "सद्गुरु सेवासदन, (भक्तराज महाराज) आश्रम, श्री परमहंस चंद्रशेखारानंद महाराज परिसर",
-    "food": "TRUE",
-    "visheshsthan": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633354627/parikrama/3.png",
-    "location": "22.221411477371742, 76.04502712752377"
-  },
-  {
-    "id": 3,
-    "ref": 4,
-    "place": "नरमदा सेवा कुटी",
-    "accmodation": "महंत श्री शुक्रदास महाराज जी आश्रम",
-    "food": "TRUE",
-    "visheshsthan": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/4.png",
-    "location": "22.212888211058086, 76.01658922514035"
-  },
+  
   {
     "id": 4,
     "ref": 5,
