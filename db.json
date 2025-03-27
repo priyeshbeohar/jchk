@@ -1737,7 +1737,7 @@
     "food": "TRUE",
     "visheshsthan": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735886019/parikrama/198.png",
-    "location": "21.8744034,73.2197201"
+    "location": "21.8744034, 73.2197201"
   },
   {
     "id": 175,
@@ -1837,7 +1837,7 @@
     "food": "TRUE",
     "visheshsthan": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732336621/parikrama/208.png",
-    "location": "21.9313343,73.3776709"
+    "location": "21.9313343, 73.3776709"
   },
   {
     "id": 185,
