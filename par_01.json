@@ -327,7 +327,7 @@
     "id": 28,
     "ref": 842,
     "place": "लखनगावं फ़ाटा",
-    "accmodation": "माँ नर्मदा आश्रम",
+    "accmodation": "नर्मदेश्वर महादेव मंदिर , कैलाश आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
     "distance": "लखनगावं फ़ाटा से चैनपुरा 4.9 km\nलखनगावं फ़ाटा से बड़वानी : 37 km",
@@ -729,7 +729,7 @@
     "distance": "भमाणा से सावरीयाडीगर 3.8 km",
     "detail": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633444115/parikrama/68.png",
-    "location": "21.946027802557555, 74.33660227033653"
+    "location": "21.94667338101075,74.33275431490696"
   },
   {
     "id": 62,
@@ -921,7 +921,7 @@
     "distance": "पिंपळखुटी से मोकस 4.1 km",
     "detail": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735320989/parikrama/85.png",
-    "location": "21.7822124,73.9342637"
+    "location": "21.782172137046036,73.93828791907012"
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@
     "distance": "मोकस से पांढरामाटी 1.6 km",
     "detail": "",
     "photo": "",
-    "location": "21.76341276270803, 73.89962326255736"
+    "location": "21.764159639580086, 73.90374025873517"
   },
   {
     "id": 79,
@@ -3990,7 +3990,7 @@
     "accmodation": "बागडी संगम आश्रम - भैरव टेकरी",
     "food": "TRUE",
     "visheshsthan": "",
-    "distance": "बागदी संगम से मंडलेश्वर 0.9 km",
+    "distance": "बागदी संगम से दावठा 0.9 km",
     "detail": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740931819/parikrama/359.png",
     "location": "22.484462447942793, 76.89353161599377"
@@ -3998,14 +3998,14 @@
   {
     "id": 334,
     "ref": 360,
-    "place": "मंडलेश्वर",
-    "accmodation": "",
-    "food": "",
+    "place": "दावठा",
+    "accmodation": "मेकलसुता सेवा सदन",
+    "food": "TRUE",
     "visheshsthan": "",
-    "distance": "मंडलेश्वर से बजवाडा 3 km",
+    "distance": "दावठा से बजवाडा 3 km",
     "detail": "",
-    "photo": "",
-    "location": "22.487912221202194, 76.9014280393875"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765358194/parikrama/360.png",
+    "location": "22.49543814327357, 76.89722637988213"
   },
   {
     "id": 335,
@@ -4301,9 +4301,9 @@
     "place": "आवलीघाट",
     "accmodation": "साई बाबा मंदिर",
     "food": "TRUE",
-    "visheshsthan": "",
+    "visheshsthan": "भीमकुंड",
     "distance": "आवलीघाट से गंजीत 1.9 km",
-    "detail": "",
+    "detail": "आवलीघाट में परिक्रमवासियों हेतु छोटे बड़े कुल चार आश्रम हैं । साई बाबा मंदिर माँ नर्मदा अननक्षेत्र , परिक्रमावासी सेवा आश्रम, सिद्ध त्रिलोकेश्वरधाम अन्नक्षेत्र, निंबार्क आश्रम ।",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732118240/384.png",
     "location": "22.649044, 77.493070"
   },
