@@ -4303,7 +4303,7 @@
     "food": "TRUE",
     "visheshsthan": "भीमकुंड",
     "distance": "आवलीघाट से गंजीत 1.9 km",
-    "detail": "आवलीघाट में परिक्रमवासियों हेतु छोटे बड़े कुल चार आश्रम हैं । साई बाबा मंदिर माँ नर्मदा अननक्षेत्र , परिक्रमावासी सेवा आश्रम, सिद्ध त्रिलोकेश्वरधाम अन्नक्षेत्र, निंबार्क आश्रम ।",
+    "detail": "आवलीघाट में परिक्रमवासियों हेतु छोटे बड़े कुल चार आश्रम हैं । 1. साई बाबा मंदिर माँ नर्मदा अननक्षेत्र, 2. परिक्रमावासी सेवा आश्रम, 3. सिद्ध त्रिलोकेश्वरधाम अन्नक्षेत्र, 4. निंबार्क आश्रम ।",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732118240/384.png",
     "location": "22.649044, 77.493070"
   },
@@ -4314,34 +4314,34 @@
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
-    "distance": "गंजीत से पिथोडा 2.9 km",
+    "distance": "गंजीत से चरुआ 3.6  km\nगंजीत से पिथोडा 2.9 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.6564820710913, 77.50940208672914"
   },
   {
     "id": 361,
     "ref": 386,
-    "place": "पिथोडा",
-    "accmodation": "",
-    "food": "",
+    "place": "चरुआ",
+    "accmodation": "मेकलसुता सेवा आश्रम",
+    "food": "TRUE",
     "visheshsthan": "",
-    "distance": "पिथोडा से जहाजपुर 3.2 km",
+    "distance": "चरुआ से जहाजपुर 1.8 km",
     "detail": "",
     "photo": "",
-    "location": "22.673352170650144, 77.53038769010593"
+    "location": "22.67866354847833, 77.55863604851345"
   },
   {
     "id": 362,
     "ref": 387,
     "place": "जहाजपुर",
-    "accmodation": "नर्मदा परिक्रमा भंडारा मोनू पटेल",
+    "accmodation": "माँ नर्मदा सेवा धाम आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
     "distance": "जहाजपुर से साततुमडी 2.4 km",
-    "detail": "",
-    "photo": "",
-    "location": "22.679212985290068, 77.56051194807868"
+    "detail": "नर्मदा परिक्रमा भंडारा मोनू पटेल",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765470858/parikrama/387.png",
+    "location": "22.67872599192441,77.55922347605194"
   },
   {
     "id": 363,
@@ -4352,20 +4352,20 @@
     "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
     "distance": "साततुमडी से निनोरा 2.6 km",
     "detail": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.68899870156545, 77.58102801047664"
   },
   {
     "id": 364,
     "ref": 389,
     "place": "निनोरा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "परिक्रमावासी सेवा",
+    "food": "TRUE",
     "visheshsthan": "",
     "distance": "निनोरा से सप्तधारा 3.5 km",
     "detail": "",
-    "photo": "",
-    "location": "22.711644722433327, 77.58815195757457"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547561/parikrama/389.png",
+    "location": "22.705682211561058,77.58615387284395"
   },
   {
     "id": 365,
@@ -4375,8 +4375,8 @@
     "food": "",
     "visheshsthan": "भागनेर  नदी संगम",
     "distance": "सप्तधारा से होलीपुरा 1.1 km",
-    "detail": "",
-    "photo": "",
+    "detail": "करुणाधाम आश्रम, नर्मदेश्वर बालाजी धाम आश्रम सात धार",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765554433/parikrama/391.png",
     "location": "22.73504027586386, 77.61095421863479"
   },
   {
@@ -4387,7 +4387,7 @@
     "food": "TRUE",
     "visheshsthan": "",
     "distance": "होलीपुरा से देवगाव 2.8 km",
-    "detail": "",
+    "detail": "अन्य आश्रम 1. सीताराम कुटी आश्रम पुराना होलीपुरा, 2. मौनी बाबा आश्रम (हनुमान मंदिर)",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741010129/parikrama/392.png",
     "location": "22.743531973566554,77.61564917252645"
   },
@@ -4399,7 +4399,7 @@
     "food": "",
     "visheshsthan": "",
     "distance": "देवगाव से पिली कराल 1 km",
-    "detail": "",
+    "detail": "हनुमान जी मंदिर, देवगांव",
     "photo": "",
     "location": "22.763479241814927, 77.63210424416873"
   },
@@ -4407,13 +4407,13 @@
     "id": 368,
     "ref": 394,
     "place": "पिली कराल",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "करुणा धाम पीलीकरार",
+    "food": "TRUE",
     "visheshsthan": "",
     "distance": "पिली कराल से होशंगाबाद फाटा 4.3 km",
     "detail": "",
-    "photo": "",
-    "location": "22.771907959710532, 77.63560184472158"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765557176/parikrama/394.png",
+    "location": "22.771065399063453,77.6393844697025"
   },
   {
     "id": 369,
@@ -4982,50 +4982,50 @@
   {
     "id": 416,
     "ref": 443,
-    "place": "केरपाणी",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "place": "केरपानी घाट",
+    "accmodation": "औंम्कारेश्वर महादेव मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "राजा हिर्देशाह लोधी स्टैचू",
     "distance": "केरपाणी से पिठेहरा 3.7 km",
-    "detail": "",
-    "photo": "",
-    "location": "23.071667647011896, 79.16461721061678"
+    "detail": "श्री अभय साधना कुटीर",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765608130/parikrama/443.png",
+    "location": "23.070142534341777,79.16066958404542"
   },
   {
     "id": 417,
     "ref": 444,
     "place": "पिठेहरा",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "accmodation": "राधा कृष्णा मन्दिर",
+    "food": "FALSE",
+    "visheshsthan": "पिठेहरा गढी, गोंड राजमहल",
     "distance": "पिठेहरा से मुर्गाखेडा 4.6 km",
-    "detail": "",
-    "photo": "",
-    "location": "23.077954882096385, 79.20055227392103"
+    "detail": "यहां परिक्रमा वासियों के रुकने की व्यवस्था अच्छी है पर भोजन पानी और शौचालय की व्यवस्था ठीक नहीं है",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765609356/parikrama/444.png",
+    "location": "23.07898836237092, 79.20086968572878"
   },
   {
     "id": 418,
     "ref": 445,
     "place": "मुर्गाखेडा",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "accmodation": "शंकर जी मन्दिर",
+    "food": "FALSE",
+    "visheshsthan": "साधु कुटी",
     "distance": "मुर्गाखेडा से डोंगरगाव 2.2 km",
-    "detail": "",
-    "photo": "",
-    "location": "23.087487996258247, 79.24476526581923"
+    "detail": "यहां परिक्रमा वासियों के रुकने की व्यवस्था है पर भोजन पानी और शौचालय की व्यवस्था नहीं है .",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765622855/parikrama/445.png",
+    "location": "23.08533455172928, 79.24283748815218"
   },
   {
     "id": 419,
     "ref": 446,
     "place": "डोंगरगाव",
-    "accmodation": "",
+    "accmodation": "श्री नर्मदा गौरी गौ सेवा आश्रम",
     "food": "",
     "visheshsthan": "",
     "distance": "डोंगरगाव से रोहणी 3.1 km",
-    "detail": "",
-    "photo": "",
-    "location": "23.09850194373275, 79.26206014958596"
+    "detail": "परिक्रमा वासियों के लिए रुकने की व्यवस्था है।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765622854/parikrama/446.png",
+    "location": "23.096120023612517,79.26582702683496"
   },
   {
     "id": 420,
@@ -5048,7 +5048,7 @@
     "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
     "distance": "कुरेला से आमोदा 2 km",
     "detail": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "23.103250905579188,79.31109137649504"
   },
   {
@@ -5067,31 +5067,31 @@
     "id": 423,
     "ref": 450,
     "place": "धूमगढ",
-    "accmodation": "",
-    "food": "",
-    "visheshsthan": "",
+    "accmodation": "शंकराचार्य मंदिर",
+    "food": "TRUE",
+    "visheshsthan": "शंकराचार्य गुफा",
     "distance": "धूमगढ से हीरापूर 1.5 km",
-    "detail": "",
-    "photo": "",
+    "detail": "आदि गुरु शंकराचार्य जी ने ईस पवित्र स्थान पर नर्मदा परिक्रमा करते समय तपस्या की थी|",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765624892/parikrama/450.png",
     "location": "23.101861683885826, 79.3304172106082"
   },
   {
     "id": 424,
     "ref": 451,
     "place": "हीरापूर",
-    "accmodation": "",
+    "accmodation": "संगमेश्वर महादेव",
     "food": "",
     "visheshsthan": "हिरन नदी संगम",
     "distance": "हीरापूर से जुगपुरा 2.6 km",
-    "detail": "",
+    "detail": "इस स्थान पर परिक्रमा वासी विश्राम कर सकते हैं हैंड पंप लगा है टूटा फूटा शौचालय है उपयोग कर सकतेहैं नर्मदा और हिरन नदी का संगम है नीचे परिक्रमा वासियों को सदाव्रत दिया जाता है परिक्रमा आवासी रात्रि विश्राम कर सकते हैं बिजली की व्यवस्था नहीं है",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740931405/parikrama/451.png",
-    "location": "23.110540085536755, 79.34132892498612"
+    "location": "23.107967341094696,79.34328169673051"
   },
   {
     "id": 425,
     "ref": 452,
     "place": "जुगपुरा",
-    "accmodation": "",
+    "accmodation": "धर्मशाला",
     "food": "",
     "visheshsthan": "",
     "distance": "जुगपुरा से पावला 1.1 km",
@@ -5107,8 +5107,8 @@
     "food": "TRUE",
     "visheshsthan": "",
     "distance": "पावला से बेलखेडी 2.9 km",
-    "detail": "",
-    "photo": "",
+    "detail": "श्री सीताराम मिशन आश्रम , श्री सीताराम मिशन आश्रम",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765628706/parikrama/453.png",
     "location": "23.11609127422128, 79.37610059456648"
   },
   {
