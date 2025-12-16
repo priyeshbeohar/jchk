@@ -339,12 +339,12 @@
     "id": 29,
     "ref": 842,
     "place": "लखनगावं फ़ाटा",
-    "accmodation": "नर्मदेश्वर महादेव मंदिर , कैलाश आश्रम",
+    "accmodation": "कैलाश आश्रम",
     "food": "TRUE",
-    "visheshsthan": "",
+    "visheshsthan": "नर्मदेश्वर महादेव मंदिर",
     "distance": "लखनगावं फ़ाटा से बड़वानी : 37 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765881940/parikrama/842.png",
     "location": "22.07054004090112, 75.24692889282285"
   },
   {
@@ -356,7 +356,7 @@
     "visheshsthan": "",
     "distance": "मारुकी चिचली से नलवाय 3.8 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.114843417299564, 75.22823860876413"
   },
   {
@@ -364,7 +364,7 @@
     "ref": 35,
     "place": "नलवाय",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "देब नदी संगम",
     "distance": "नलवाय से लोहारा 2 km",
     "detail": "",
@@ -388,11 +388,11 @@
     "ref": 37,
     "place": "किर्मोही",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "किर्मोही से केसरपुरा 2.2 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765873740/parikrama/sangam.png",
     "location": "22.09688846994773, 75.14572398083915"
   },
   {
@@ -400,11 +400,11 @@
     "ref": 38,
     "place": "केसरपुरा",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "केसरपुरा से मोहिपुरा 2 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.092836942770788, 75.1249661211165"
   },
   {
@@ -416,7 +416,7 @@
     "visheshsthan": "अमुर्तानंद जी समाधी स्थल",
     "distance": "मोहिपुरा से दतवाडा 1.2 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.08997388321503, 75.10539672454415"
   },
   {
@@ -448,11 +448,11 @@
     "ref": 43,
     "place": "आवली",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "आवली से दहीबेडा-सेगाव 2.2 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.080278059524304, 75.01610035782383"
   },
   {
@@ -461,10 +461,10 @@
     "place": "दहीबेडा-सेगाव",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "नाखून वाले बाबा आश्रम",
     "distance": "दहीबेडा-सेगाव से पिपलोद 2 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.07952246837415, 74.99459977076084"
   },
   {
@@ -473,10 +473,10 @@
     "place": "पिपलोद",
     "accmodation": "",
     "food": "",
-    "visheshsthan": "",
+    "visheshsthan": "श्री नृसिंह मंदिर",
     "distance": "पिपलोद से देह्दाला 3.2 km",
     "detail": "",
-    "photo": "",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765547956/parikrama/marg_1.png",
     "location": "22.076221680579668, 74.97593159547722"
   },
   {
@@ -484,7 +484,7 @@
     "ref": 46,
     "place": "देह्दाला",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
     "distance": "देह्दाला से कसरावद 2.7 km",
     "detail": "",
@@ -499,7 +499,7 @@
     "food": "TRUE",
     "visheshsthan": "माँ नर्मदा मंदिर कसरवाड",
     "distance": "कसरावद से एकालारा 1.5 km",
-    "detail": "",
+    "detail": "नर्मदा नदी के किनारे पर स्थित है, परिक्रमा वासियों के रुकने तथा भोजन की बहुत ही अच्छी व्यवस्था है। निरंतर सदाव्रत भी उपलब्ध है।",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1735319382/parikrama/47.png",
     "location": "22.077301,74.923414"
   },
@@ -508,11 +508,11 @@
     "ref": 48,
     "place": "एकालारा",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "एकालारा से राजघाट 2.2 km",
-    "detail": "",
-    "photo": "",
+    "detail": "पुराना रास्ता , डूब क्षेत्र हो सकता है । जानकारी ले के आगे बढ़ें ।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765898274/parikrama/marg_2.png",
     "location": "22.076135875150737, 74.90937177142094"
   },
   {
@@ -520,11 +520,11 @@
     "ref": 49,
     "place": "राजघाट",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "राजघाट से करही 6.6 km",
-    "detail": "",
-    "photo": "",
+    "detail": "पुराना रास्ता , डूब क्षेत्र हो सकता है । जानकारी ले के आगे बढ़ें ।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765898274/parikrama/marg_2.png",
     "location": "22.07536534841365, 74.88816354476278"
   },
   {
@@ -536,19 +536,19 @@
     "visheshsthan": "",
     "distance": "करही से पेंडरा 7.5 km",
     "detail": "",
-    "photo": "",
-    "location": "22.029867145880388,74.92897723675453"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765898266/parikrama/843.png",
+    "location": "22.03018793574218,74.93314672302967"
   },
   {
     "id": 46,
     "ref": 50,
     "place": "पेंडरा",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "पेंडरा से जामदाबैडी 1.8 km",
-    "detail": "",
-    "photo": "",
+    "detail": "पुराना रास्ता , डूब क्षेत्र हो सकता है । जानकारी ले के आगे बढ़ें ।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765898274/parikrama/marg_2.png",
     "location": "22.06559838817221, 74.86735839327156"
   },
   {
@@ -556,11 +556,11 @@
     "ref": 51,
     "place": "जामदाबैडी",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
+    "food": "FALSE",
+    "visheshsthan": "",
     "distance": "जामदाबैडी से धामपुर 3.1 km",
-    "detail": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1741166134/parikrama/blank1.png",
+    "detail": "पुराना रास्ता , डूब क्षेत्र हो सकता है । जानकारी ले के आगे बढ़ें ।",
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1765898274/parikrama/marg_2.png",
     "location": "22.059795839056918, 74.85155072697457"
   },
   {
