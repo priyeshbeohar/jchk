@@ -3164,8 +3164,8 @@
     "visheshsthan": "",
     "distance": "अचोदा से करोली 3.2 km",
     "detail": "",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1738666306/parikrama/274.png",
-    "location": "22.097771701903817, 75.03854409865573"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1767426622/parikrama/274.png",
+    "location": "22.09668337040988,75.0460294048245"
   },
   {
     "id": 265,
@@ -3183,13 +3183,13 @@
     "id": 266,
     "ref": 275,
     "place": "सेमलदा",
-    "accmodation": "",
-    "food": "",
+    "accmodation": "नर्मदा मैया आश्रम माता जी",
+    "food": "TRUE",
     "visheshsthan": "",
     "distance": "सेमलदा से खेदिहवेली 4.9 km",
     "detail": "",
-    "photo": "",
-    "location": "22.09844767007173, 75.05339280788311"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1767426816/275.png",
+    "location": "22.10036641157554,75.05313912956758"
   },
   {
     "id": 267,
@@ -3842,19 +3842,19 @@
   {
     "id": 321,
     "ref": 330,
-    "place": "कुंडा",
-    "accmodation": "",
-    "food": "",
+    "place": "बडेल 1",
+    "accmodation": "माँ नर्मदा अन्नक्षेत्र आश्रम हनुमान मंदिर",
+    "food": "TRUE",
     "visheshsthan": "",
     "distance": "कुंडा से बडेल 6.2 km",
     "detail": "",
-    "photo": "",
-    "location": "22.337984144937067, 76.14447331094581"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1768302300/parikrama/330.png",
+    "location": "22.378748717661573,76.16000680462612"
   },
   {
     "id": 322,
     "ref": 331,
-    "place": "बडेल",
+    "place": "बडेल 2",
     "accmodation": "राधा कृष्णा नर्मदा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
@@ -3868,19 +3868,19 @@
     "ref": 332,
     "place": "मेहंदीखेडा",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "मेहंदीखेडा से तरान्या 2.7 km",
     "detail": "",
     "photo": "",
-    "location": "22.397355043923746, 76.19665836920517"
+    "location": "22.398808512216895,76.18474503331825"
   },
   {
     "id": 324,
     "ref": 333,
     "place": "तरान्या",
     "accmodation": "",
-    "food": "",
+    "food": "FALSE",
     "visheshsthan": "",
     "distance": "तरान्या से पिपरीया 5.7 km",
     "detail": "",
@@ -3904,10 +3904,10 @@
     "ref": 335,
     "place": "सीतावन-वाल्मीक आश्रम",
     "accmodation": "",
-    "food": "",
-    "visheshsthan": "श्री वाल्मिकी आश्रम सीतावन रेवा कुंड म",
+    "food": "FALSE",
+    "visheshsthan": "सीता माता मंदिर, श्री वाल्मिकी आश्रम सीतावन रेवा कुंड म",
     "distance": "सीतावन-वाल्मीक आश्रम से तातूखेडा 2.1 km",
-    "detail": "",
+    "detail": "यह स्थान बड़ा पवित्र है। मान्यता है कि यहां माता सीता ने लव और कुश को जन्म दिया था। यहां महर्षि वाल्मीकि का आश्रम बताया जाता है।",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1740070849/parikrama/335.png",
     "location": "22.390470746455147, 76.2861368619841"
   },
