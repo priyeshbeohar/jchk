@@ -3890,7 +3890,7 @@
   {
     "id": 325,
     "ref": 334,
-    "place": "पिपरीया",
+    "place": "पिपरी",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -3914,7 +3914,7 @@
   {
     "id": 327,
     "ref": 336,
-    "place": "तातूखेडा",
+    "place": "तेंदूखेड़ा",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5738,19 +5738,19 @@
   {
     "id": 479,
     "ref": 834,
-    "place": "बम्हनी 1",
+    "place": "मार्ग 1 - बम्हनी 1",
     "accmodation": "हनुमान मंदिर",
     "food": "TRUE",
     "visheshsthan": "",
     "distance": "बम्हनी 1 से बम्हनी चौराहा 0.3 km",
     "detail": "",
     "photo": "",
-    "location": "23.0892459,80.1330843"
+    "location": "23.08767254437483,80.13340454863351"
   },
   {
     "id": 480,
     "ref": 833,
-    "place": "बम्हनी चौराहा",
+    "place": "मार्ग 1 - बम्हनी चौराहा",
     "accmodation": "माँ नर्मदे हर धर्मशाला बम्हनी तिराहा",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5762,7 +5762,7 @@
   {
     "id": 481,
     "ref": 488,
-    "place": "धनपुरी",
+    "place": "मार्ग 1 - धनपुरी",
     "accmodation": "धनपुरी नर्मदा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5774,7 +5774,7 @@
   {
     "id": 482,
     "ref": 491,
-    "place": "पहाडीखेडा",
+    "place": "मार्ग 1 - पहाडीखेडा",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5786,7 +5786,7 @@
   {
     "id": 483,
     "ref": 492,
-    "place": "मनेरी > गोरांबा",
+    "place": "मार्ग 1 - मनेरी > गोरांबा",
     "accmodation": "माता जी मंदिर",
     "food": "",
     "visheshsthan": "",
@@ -5798,7 +5798,7 @@
   {
     "id": 484,
     "ref": 494,
-    "place": "कोहनी",
+    "place": "मार्ग 1 - कोहनी",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5810,7 +5810,7 @@
   {
     "id": 485,
     "ref": 493,
-    "place": "सकरी",
+    "place": "मार्ग 1 - सकरी",
     "accmodation": "लम्मू लाल विश्वकर्मा का अन्नक्षेत्र",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5822,7 +5822,7 @@
   {
     "id": 486,
     "ref": 495,
-    "place": "हथितारा",
+    "place": "मार्ग 1 - हथितारा",
     "accmodation": "परिक्रमा निवास, हनुमान मंदिर",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5834,7 +5834,7 @@
   {
     "id": 487,
     "ref": 496,
-    "place": "गुंदलयी",
+    "place": "मार्ग 1 - गुंदलयी",
     "accmodation": "",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5870,7 +5870,7 @@
   {
     "id": 490,
     "ref": 501,
-    "place": "बिझौरी",
+    "place": "मार्ग 1 - बिझौरी",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5882,7 +5882,7 @@
   {
     "id": 491,
     "ref": 502,
-    "place": "बिछीया",
+    "place": "मार्ग 1 - बिछीया",
     "accmodation": "नरमदा मंदिर",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5894,19 +5894,19 @@
   {
     "id": 492,
     "ref": 503,
-    "place": "कटंगी",
+    "place": "मार्ग 1 - कटंगी",
     "accmodation": "तेजी बाबा आश्रम",
     "food": "",
     "visheshsthan": "",
     "distance": "कटंगी से बंजर 5.2 km",
     "detail": "",
     "photo": "",
-    "location": "23.0985871,80.5898683"
+    "location": "23.100615110683307,80.59753207461496"
   },
   {
     "id": 493,
     "ref": 504,
-    "place": "बंजर",
+    "place": "मार्ग 1 - बंजर",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5918,7 +5918,7 @@
   {
     "id": 494,
     "ref": 830,
-    "place": "गुटली",
+    "place": "मार्ग 1 - गुटली",
     "accmodation": "बजरंग कुटी आश्रम , भरद्वाज घाट",
     "food": "TRUE",
     "visheshsthan": "",
@@ -5930,11 +5930,11 @@
   {
     "id": 495,
     "ref": 505,
-    "place": "शहपुरा",
+    "place": "मार्ग 1 - शहपुरा",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
-    "distance": "शहपुरा से वज्रेश्वरी 8.7 km",
+    "distance": "शहपुरा से वज्रेश्वरी 9.4 km",
     "detail": "",
     "photo": "",
     "location": "23.184525183232672, 80.69907985918826"
@@ -5942,7 +5942,7 @@
   {
     "id": 496,
     "ref": 506,
-    "place": "वज्रेश्वरी",
+    "place": "मार्ग 1 - वज्रेश्वरी",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5954,7 +5954,7 @@
   {
     "id": 497,
     "ref": 507,
-    "place": "अमठेरा",
+    "place": "मार्ग 1 - अमठेरा",
     "accmodation": "",
     "food": "FALSE",
     "visheshsthan": "मां नर्मदा परिक्रमा मार्ग",
@@ -5966,7 +5966,7 @@
   {
     "id": 498,
     "ref": 508,
-    "place": "बरझड",
+    "place": "मार्ग 1 - बरझड",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -5978,7 +5978,7 @@
   {
     "id": 499,
     "ref": 509,
-    "place": "अमेरा",
+    "place": "मार्ग 1 - अमेरा",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
@@ -6042,7 +6042,7 @@
     "accmodation": "अरुण जी का अन्नक्षेत्र अंकुर स्मृति",
     "food": "TRUE",
     "visheshsthan": "",
-    "distance": "शाहपूर से जोगिटिकरीया 7.4 km",
+    "distance": "शाहपूर से जोगिटिकरीया 8.7 km",
     "detail": "",
     "photo": "",
     "location": "23.026475167384323,81.00116469668481"
@@ -8910,7 +8910,7 @@
     "accmodation": "ॐ माँ नर्मदा परिक्रमा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "distance": "सिंगाजी से मांडला 1 8 km",
+    "distance": "सिंगाजी से मंडला 1 8 km",
     "detail": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1742985955/parikrama/773.png",
     "location": "22.03494157456303,76.5969493031636"
@@ -8918,11 +8918,11 @@
   {
     "id": 744,
     "ref": 778,
-    "place": "मांडला 1",
+    "place": "मंडला 1",
     "accmodation": "नर्मदा आश्रम",
     "food": "TRUE",
     "visheshsthan": "",
-    "distance": "मांडला 1 से मांडला 2 2.3 km",
+    "distance": "मंडला 1 से मंडला 2 2.3 km",
     "detail": "",
     "photo": "",
     "location": "21.9656019,76.5774524"
@@ -8930,11 +8930,11 @@
   {
     "id": 745,
     "ref": 808,
-    "place": "मांडला 2",
+    "place": "मंडला 2",
     "accmodation": "श्री हनुमान मंदिर",
     "food": "TRUE",
     "visheshsthan": "",
-    "distance": "मांडला 2 से सहजला 2.2 km",
+    "distance": "मंडला 2 से सहजला 2.2 km",
     "detail": "",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1732368880/parikrama/808.png",
     "location": "21.969766, 76.555654"
@@ -8978,7 +8978,7 @@
   {
     "id": 749,
     "ref": 782,
-    "place": "पळसूद",
+    "place": "पलसूद",
     "accmodation": "",
     "food": "",
     "visheshsthan": "",
