@@ -483,7 +483,7 @@
   {
     "id": 38,
     "ref": 36,
-    "place": "लोहारा",
+    "place": "Ꝋ लोहारा",
     "accmodation": "कपिलेश्वर महादेव मंदिर",
     "contact": "",
     "food": "TRUE",
@@ -496,7 +496,7 @@
   {
     "id": 39,
     "ref": 37,
-    "place": "X किर्मोही",
+    "place": "Ɵ किर्मोही",
     "accmodation": "",
     "contact": "",
     "food": "FALSE",
@@ -509,7 +509,7 @@
   {
     "id": 40,
     "ref": 38,
-    "place": "मंडवाड़ा",
+    "place": "≠ मंडवाड़ा",
     "accmodation": "शिवालय मंदिर",
     "contact": "",
     "food": "TRUE",
