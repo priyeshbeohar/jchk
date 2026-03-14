@@ -111,7 +111,7 @@
     "contact": "",
     "food": "TRUE",
     "notes": "",
-    "distance": "► रावेरखेडी से बकावन 2.8 km\n► रावेरखेडी से लेपा : 28.1 km",
+    "distance": "► रावेरखेडी से बकावाँ 2.8 km\n► रावेरखेडी से लेपा : 28.1 km",
     "detail": "बाजीराव पेशवा समाधी, रामेश्वर मंदिर, अन्य आश्रम - गौरी अन्नक्षेत्र आश्रम रावेर, माँ गंगा सदावर्त आश्रम",
     "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633280492/parikrama/10.jpg",
     "location": "22.173708823925413, 75.87651529174406"
@@ -132,15 +132,15 @@
   {
     "id": 11,
     "ref": 11,
-    "place": "बकावन",
-    "accmodation": "शिव शक्ति व्यापारी बकावा आश्रम नर्मदा",
-    "contact": "",
+    "place": "बकावाँ",
+    "accmodation": "मां रेवा अन्नक्षैत्र सेवा समिति",
+    "contact": "मोबाईल : 09926426399, 09893543948, 08959377481, 9977847993, 7697369590",
     "food": "TRUE",
-    "notes": "╣►●",
-    "distance": "बकावन से मरदाना 3.1 km",
+    "notes": "",
+    "distance": "► बकावाँ से मरदाना 3.1 km",
     "detail": "विश्वनाथ महादेव मंदिर, नर्मदेश्वर शिवलिंग उत्पादन केंद्र",
-    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1633332967/parikrama/11.png",
-    "location": "22.16939863919523, 75.8496149091967"
+    "photo": "https://res.cloudinary.com/pmobile007/image/upload/v1773496507/parikrama/11.png",
+    "location": "22.17147723679546,75.8480072270773"
   },
   {
     "id": 12,
